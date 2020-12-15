@@ -1,0 +1,20 @@
+.header {
+  height: 10vh;
+}
+
+.intro {
+  background-image: url(./assets/background1-darker.png);
+  height: 90vh;
+}
+
+h1 {
+  color: white;
+}
+
+h2 { 
+  color: white;
+}
+
+ul {
+  list-style-type:none
+}
