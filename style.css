@@ -142,6 +142,7 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 1rem;
+  line-height: 1.5em;
 }
 
 .languages {
@@ -152,11 +153,20 @@ img {
 }
 
 .project-link {
-  font-family: 'Martel', serif;
+  /* font-family: 'Martel', serif;
   font-weight: 900;
   text-decoration: none;
   padding: 1px 20px 1px 20px;
   border: 2px solid #1A1B1F;
+  border-radius: 10px;
+  margin-right: 20px; */
+  text-align: center;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  padding: 5px 25px 5px 25px;
+  border: 1px solid #1A1B1F;
   border-radius: 10px;
   margin-right: 20px;
 }
@@ -206,4 +216,98 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 1rem;
+}
+
+.about { 
+  display: flex;
+  justify-content: center;
+  flex-direction: row; 
+  flex-wrap: wrap;
+  margin: 100px 0;
+}
+
+.about-image {
+  width: 30%;
+}
+
+.about-image img{
+  border-radius: 4px;
+  border: 10px solid #EEE5E5;
+	outline: 5px dashed #EEE5E5;
+}
+
+.about-text {
+  width: 50%;
+  padding: 50px;
+}
+
+.about-text p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.5em;
+}
+
+.about-text a {
+  text-align: center;
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  padding: 7px 20px 7px 20px;
+  border: 1px solid #1A1B1F;
+  border-radius: 10px;
+}
+
+.about-text a:link,
+.about-text a:visited {
+  color: #1A1B1F;
+}
+
+.resume-link {
+  margin-top: 30px;
+  width: 100%;
+}
+
+.contact {
+  background-color: #626262;
+}
+
+.contact-container {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+}
+
+.contact-text {
+
+}
+
+.contact-text h2 {
+  display: inline-block;
+  border-bottom: 4px solid #F99A14;
+}
+
+.contact-text p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: white;
+}
+
+.footer {
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  background-color: #1A1B1F;
+  height: 5vh;
+}
+
+.footer-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  color: white;
 }
