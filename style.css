@@ -77,6 +77,7 @@ li {
 
 .fa-map-pin {
   color: #F99A14;
+  margin-right: 5px;
 }
 
 .location p {
@@ -97,6 +98,12 @@ h2 {
   font-size: 1.5rem;
 }
 
+h3 {
+  font-family: 'Martel', serif;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
 img {
   max-width:100%;
   max-height:100%;
@@ -104,8 +111,9 @@ img {
 
 .arrow-down {
   position: absolute;
-  bottom: 0;
-  left: 50;
+  bottom: 5%;
+  left: 50%;
+  color: white;
 }
 
 .project-container {
@@ -113,12 +121,66 @@ img {
   justify-content: center;
   flex-direction: row; 
   flex-wrap: wrap;
+  margin-top: 60px;
 }
 
 .project-image {
-  width: 50%;
+  width: 30%;
 }
 
 .project-texts {
-  width: 50%;
+  width: 35%;
+  padding: 0 30px 0 30px;
+}
+
+.app-intro {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+.languages {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 1rem;
+  margin: 25px 0 35px 0;
+}
+
+.project-link {
+  font-family: 'Martel', serif;
+  font-weight: 900;
+  text-decoration: none;
+  padding: 1px 20px 1px 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.project-link:link,
+.project-link:visited {
+  color: black;
+}
+
+.bar {
+  color: #F99A14;
+}
+
+.skills-conatiner {
+  margin-top: 50px;
+  text-align: center;
+  height: 40vh;
+}
+
+.skills-header {
+  font-family: 'Martel', serif;
+  font-weight: 900;
+  font-size: 2rem;
+}
+
+.skills-logo {
+  display: inline-block;
+}
+
+.skills-logo p{
+  display: inline-block;
 }
