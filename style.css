@@ -17,6 +17,10 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 /* #000000 */
 /* #1c268b */
 
+.wrapper {
+
+}
+
 .logo {
   position: absolute;
   top: 0;
@@ -58,8 +62,9 @@ ul {
 li {
   display: inline-block;
   font-family: 'Roboto', sans-serif;
-  font-weight: 600;
-  color: #A2A2A2;
+  font-weight: 400;
+  font-size: 1rem;
+  color: white;
   padding: 20px;
 }
 
@@ -113,7 +118,7 @@ img {
   position: absolute;
   bottom: 5%;
   left: 50%;
-  color: white;
+  color: #F99A14;
 }
 
 .project-container {
@@ -121,7 +126,7 @@ img {
   justify-content: center;
   flex-direction: row; 
   flex-wrap: wrap;
-  margin-top: 60px;
+  margin-top: 100px;
 }
 
 .project-image {
@@ -151,36 +156,54 @@ img {
   font-weight: 900;
   text-decoration: none;
   padding: 1px 20px 1px 20px;
-  border: 2px solid black;
+  border: 2px solid #1A1B1F;
   border-radius: 10px;
   margin-right: 20px;
 }
 
 .project-link:link,
 .project-link:visited {
-  color: black;
+  color: #1A1B1F;
 }
 
 .bar {
   color: #F99A14;
 }
 
-.skills-conatiner {
-  margin-top: 50px;
+.skills-section {
+  background-color: #626262;
+  margin-top: 100px;
   text-align: center;
-  height: 40vh;
+  height: 60vh;
+}
+
+.skills-container {
+  margin-top: 50px;
+  justify-items: center;
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(2, 100%);
 }
 
 .skills-header {
   font-family: 'Martel', serif;
   font-weight: 900;
   font-size: 2rem;
+  color: white;
+  padding-top: 50px;
 }
 
 .skills-logo {
   display: inline-block;
+  height: 40px;
+  width: 65px;
+  margin: 20px;
 }
 
 .skills-logo p{
   display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
 }
