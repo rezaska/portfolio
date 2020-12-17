@@ -69,6 +69,7 @@ li {
 }
 
 li a {
+  text-decoration: none;
   padding-bottom: 10px;
 
   display: inline-block;
@@ -107,6 +108,10 @@ li a:active:before {
   right: 0;
 }
 
+li a:visited {
+  color: white;
+}
+
 .intro {
   background-image: url(./assets/background1-darker.png);
   height: 100vh;
@@ -117,6 +122,10 @@ li a:active:before {
   position: absolute;
   top: 35%;
   left: 10%;
+}
+
+.intro-text h2 {
+  color: white;
 }
 
 .fa-map-pin {
@@ -137,7 +146,6 @@ h1 {
 }
 
 h2 { 
-  color: white;
   font-family: 'Martel', serif;
   font-size: 1.5rem;
 }
@@ -277,7 +285,11 @@ img {
 
 .about-text {
   width: 50%;
-  padding: 50px;
+  margin-left: 50px;
+}
+
+.about-me h2 {
+  color: #1A1B1F;
 }
 
 .about-text p {
@@ -285,6 +297,7 @@ img {
   font-weight: 400;
   font-size: 1.1rem;
   line-height: 1.5em;
+  margin-top: 40px;
 }
 
 .fa-download {
@@ -330,6 +343,7 @@ img {
 
 .contact-text h2 {
   display: inline-block;
+  color: white;
   border-bottom: 4px solid #F99A14;
 }
 
