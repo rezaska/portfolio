@@ -244,7 +244,7 @@ img {
 .about-text p {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.5em;
 }
 
@@ -274,7 +274,7 @@ img {
 }
 
 .contact-container {
-  width: 80%;
+  width: 50%;
   height: auto;
   margin: 0 auto;
   padding: 10px;
@@ -282,7 +282,7 @@ img {
 }
 
 .contact-text {
-
+  margin: 50px 0;
 }
 
 .contact-text h2 {
@@ -294,7 +294,99 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 1rem;
+  line-height: 1em;
   color: white;
+}
+
+.contact-text a {
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 5px 8px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+
+.contact-text a:link,
+.contact-text a:visited {
+  color: white;
+}
+
+.form-container {
+  display: block;
+}
+
+form {
+  margin-top: 50px;
+}
+
+label {
+  font-family: 'Martel', serif;
+  font-weight: 500;
+  font-size: 1rem;
+  color: white;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #A2A2A2;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #F99A14;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Martel', serif;
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+input[type=submit]:hover {
+  background-color: ;
+}
+
+.social-media {
+  width: 100%;
+  margin: 50px 0;
+  text-align: center;
+}
+
+span {
+  color: white;
+  font-family: 'Martel', serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.fab {
+  text-decoration: none;
+  color: white;
+}
+
+.fa-long-arrow-alt-right {
+  margin: 0 10px;
+}
+
+.fa-linkedin-in,
+.fa-github,
+.fa-twitter,
+.fa-medium-m {
+  margin: 10px;
 }
 
 .footer {
