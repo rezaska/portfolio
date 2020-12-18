@@ -21,8 +21,15 @@ html {
   scroll-behavior: smooth;
 }
 
-.wrapper {
+#content {
+  float: none;
+  margin-right: 0;
+  transition: all 1s;
+}
 
+.wrapper {
+ width: 85%;
+ margin: 0 auto;
 }
 
 .logo {
@@ -215,11 +222,11 @@ img {
 }
 
 .project-image {
-  width: 35%;
+  width: 50%;
 }
 
 .project-texts {
-  width: 35%;
+  width: 50%;
   padding: 0 30px 0 30px;
 }
 
@@ -351,15 +358,19 @@ img {
 }
 
 .about { 
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.about-container {
   display: flex;
   justify-content: center;
   flex-direction: row; 
   flex-wrap: wrap;
-  margin: 100px 0;
 }
 
 .about-image {
-  width: 30%;
+  width: 50%;
 }
 
 .about-image img{
@@ -370,7 +381,8 @@ img {
 
 .about-text {
   width: 50%;
-  margin-left: 50px;
+  padding-left: 20px;
+  vertical-align: middle;
 }
 
 .about-text h2 {
@@ -455,6 +467,7 @@ img {
 .contact-text a:active {
   background-color: #F99A14;
   color: #1A1B1F;
+  box-shadow: 2px 2px 5px #F99A14;
 }
 
 
@@ -495,7 +508,8 @@ input[type=text] {
 input[type=submit] {
   width: 100%;
   background-color: #F99A14;
-  color: white;
+  opacity: 0.5;
+  color: black;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -509,6 +523,8 @@ input[type=submit] {
 
 input[type=submit]:hover {
   background-color: ;
+  opacity: 1;
+  box-shadow: 2px 2px 5px #F99A14;
 }
 
 .social-media {
@@ -562,6 +578,38 @@ span {
   color: white;
 }
 
+/* media queries */
+
+@media (max-width: 1200px) {
+  .project-image {
+    width: 50%;
+  }  
+}
+
+@media (max-width: 1100px) {
+  .about-image {
+    width: 50%;
+  }
+
+  .about-text {
+    width: 50%;
+  }
+}
+
+@media (max-width: 900px) {
+  .about-container {
+    display: block;
+  }
+
+  .about-image {
+    width: auto;
+  }
+
+  .about-text {
+    width: auto;
+  }
+}
+
 @media (max-width: 620px) {
   ul {
     margin-right: 10px;
@@ -599,55 +647,21 @@ span {
   .contact-container {
     width: 80%;
   }
-
-}
-
-@media (max-width: 1200px) {
-  
-  .project-image {
-    width: 50%;
-  }  
-
-}
-
-@media (max-width: 1100px) {
-  
-  .about-image {
-    width: 50%;
-  }
-
-  .about-text {
-    width: 50%;
-  }
-
 }
 
 @media (max-width: 430px) {
-
   .skills-section {
-    height: 80vh;
+    height: 100vh;
   }
 
   .about-text {
     width: 55%;
     margin: 0;
   }
-
 }
 
-
 @media (max-width: 400px) {
-
   .project-link {
     margin: 0 auto;
   }
-
-}
-
-@media (max-width: 325px) {
-
-  .skills-section {
-      height: 100vh;
-  }
-
 }
