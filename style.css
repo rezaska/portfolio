@@ -73,9 +73,11 @@ li {
 }
 
 li a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
   text-decoration: none;
   padding-bottom: 10px;
-
+  /* hover effect starts here */
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: translateZ(0);
@@ -111,6 +113,7 @@ li a:active:before {
   left: 0;
   right: 0;
 }
+/* hover effect ends here */
 
 li a:link,
 li a:visited {
@@ -131,6 +134,8 @@ li a:visited {
 
 .intro-text h2 {
   color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
 }
 
 .fa-map-pin {
@@ -141,7 +146,8 @@ li a:visited {
 .location p {
   display: inline-block;
   color: white;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Martel', serif;
+  font-size: 1rem;
 }
 
 h1 {
@@ -151,7 +157,6 @@ h1 {
 }
 
 h2 { 
-  font-family: 'Martel', serif;
   font-size: 1.5rem;
 }
 
@@ -223,6 +228,11 @@ img {
   font-weight: 400;
   font-size: 1rem;
   line-height: 1.5em;
+}
+
+.app-intro a {
+  text-decoration: none;
+  color: #F99A14;
 }
 
 .languages {
@@ -362,8 +372,9 @@ img {
   margin-left: 50px;
 }
 
-.about-me h2 {
+.about-text h2 {
   color: #1A1B1F;
+  font-family: 'Martel', serif;
 }
 
 .about-text p {
@@ -416,6 +427,7 @@ img {
 }
 
 .contact-text h2 {
+  font-family: 'Martel', serif;
   display: inline-block;
   color: white;
   border-bottom: 4px solid #F99A14;
@@ -431,18 +443,18 @@ img {
 
 .contact-text a {
   text-decoration: none;
-  border: 1px solid white;
+  color: #F99A14;
   padding: 5px 8px;
   border-radius: 5px;
-  margin-left: 5px;
 }
 
 .contact-text a:hover,
 .contact-text a:focus,
 .contact-text a:active {
-  background-color: white;
-  color: #626262;
+  background-color: #F99A14;
+  color: #1A1B1F;
 }
+
 
 .contact-text a:visited {
   color: white;
@@ -524,6 +536,13 @@ span {
 .fa-twitter,
 .fa-medium-m {
   margin: 0 30px;
+}
+
+.fa-linkedin-in:hover,
+.fa-github:hover,
+.fa-twitter:hover,
+.fa-medium-m:hover {
+  text-shadow: 2px 2px 5px #F99A14;
 }
 
 .footer {
