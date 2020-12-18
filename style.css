@@ -220,16 +220,16 @@ img {
 
 .app-intro {
   font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 1rem;
   line-height: 1.5em;
 }
 
 .languages {
   font-family: 'Roboto', sans-serif;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 1rem;
-  margin: 25px 0 35px 0;
+  margin: 25px 0 25px 0;
 }
 
 .project-link {
@@ -249,7 +249,32 @@ img {
   border: 1px solid #1A1B1F;
   border-radius: 10px;
   margin-right: 20px;
+
+  /* animation codes starts here */
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
 }
+
+.project-link:hover,
+.project-link:focus,
+.project-link:active {
+  -webkit-transform: translateY(-8px);
+  transform: translateY(-8px);
+  border: 2px solid #F99A14;
+}
+/* animation codes ends here */
 
 .project-link:link,
 .project-link:visited {
@@ -282,6 +307,22 @@ img {
   font-size: 2rem;
   color: white;
   padding-top: 50px;
+}
+
+.skills-header p,
+.fa-html5,
+.fa-css3-alt,
+.fa-sass,
+.fa-js-square,
+.fa-dollar-sign,
+.fa-react,
+.fa-fire,
+.fa-node-js,
+.fa-git-alt,
+.fa-cogs,
+.fa-universal-access,
+.fa-mobile-alt {
+  text-shadow: 2px 2px 5px #F99A14;
 }
 
 .skills-logo {

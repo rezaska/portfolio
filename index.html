@@ -9,6 +9,7 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Martel:wght@200;300;400;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
     rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   <script src="https://kit.fontawesome.com/e6b6c3f0b6.js" crossorigin="anonymous"></script>
 </head>
 
@@ -26,9 +27,9 @@
     <section class="intro">
       <nav class="nav-text">
         <ul>
-          <li><a href="">About</a></li>
+          <li><a href="#about">About</a></li>
           <li><a href="#projects">Projects</a></li>
-          <li><a href="">Contact</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
 
@@ -53,7 +54,7 @@
         <div class="project-image">
           <img src="./assets/binge-fest-window.svg" alt="Binge Fest webiste">
         </div>
-        <div class="project-texts">
+        <div class="project-texts" data-aos="fade-left">
           <h3>Binge Fest</h3>
           <p class="app-intro">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur necessitatibus ut assumenda quis similique blanditiis deleniti doloremque? Sapiente enim. First iteration of this project built in a group of four with <a href="http://melissacappe.com/">Melissa Cappe</a>, <a href="https://lauraestanley.ca/">Laura Stanley</a> and <a href="http://gregforster.ca/">Greg Forster</a>.
@@ -73,10 +74,7 @@
       </div>
       <!-- second project starts here -->
       <div class="project-container">
-        <div class="project-image">
-          <img src="./assets/so-serious-window.svg" alt="So Serious game">
-        </div>
-        <div class="project-texts">
+        <div class="project-texts" data-aos="fade-right">
           <h3>So Serious!</h3>
           <p class="app-intro">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur necessitatibus ut assumenda quis similique
@@ -86,13 +84,16 @@
           <a href="https://github.com/rezaska/reza-soleimani-project-three" class="project-link" target="blank_">GitHub</a>
           <a href="https://rezaska.github.io/reza-soleimani-project-three/" class="project-link" target="blank_">Live</a>
         </div>
+        <div class="project-image">
+          <img src="./assets/so-serious-window.svg" alt="So Serious game">
+        </div>
       </div>
       <!-- third project starts here -->
       <div class="project-container">
         <div class="project-image">
           <img src="./assets/nextwatch-window.svg" alt="NextWatch webiste">
         </div>
-        <div class="project-texts">
+        <div class="project-texts" data-aos="fade-left">
           <h3>NextWatch</h3>
           <p class="app-intro">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur necessitatibus ut assumenda quis similique
@@ -107,7 +108,9 @@
 
     <!-- skills section starts here -->
     <section class="skills-section">
-      <div class="skills-header">Skills</div>
+      <div class="skills-header">
+        <p>Skills</p>
+      </div>
       <div class="skills-container">
         <div class="skills-logo">
           <i class="fab fa-html5 fa-3x"></i>
@@ -161,11 +164,11 @@
     </section>
 
     <!-- about section starts here -->
-    <section class="about">
+    <section class="about" id="about">
       <div class="about-image">
         <img src="./assets/Reza-old-picture.JPG" alt="Oh boy! This photo is old!">
       </div>
-      <div class="about-text">
+      <div class="about-text" data-aos="fade-left">
         <h2>About me</h2>
         <p>
           Hi! I'm Reza! <br />I'm a Front-End Developer.<br /> Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem quod magnam iure expedita quisquam accusantium veniam aperiam pariatur fuga adipisci? Nisi aut aspernatur placeat, cumque ea quia perspiciatis ab molestias?
@@ -177,7 +180,7 @@
     </section>
     
     <!-- contact start here -->
-    <section class="contact">
+    <section class="contact" id="contact">
       <div class="contact-container">
         <div class="contact-text wrapper">
           <h2>Let's connect!</h2>
@@ -211,5 +214,10 @@
   <footer class="footer">
     <div class="footer-text">&copy; Designed and Built by Reza Soleimani - 2020</div>
   </footer>
+
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 </body>
 </html>
