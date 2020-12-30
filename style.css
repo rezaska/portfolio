@@ -19,6 +19,7 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 
 html {
   scroll-behavior: smooth;
+  box-sizing: border-box;
 }
 
 #content {
@@ -67,7 +68,6 @@ html {
 ul {
   margin: 0 auto;
   list-style-type:none;
-  margin-right: 100px;
 }
 
 li {
@@ -307,11 +307,10 @@ img {
   background-color: #626262;
   margin-top: 100px;
   text-align: center;
-  height: 60vh;
+  width: 100%;
 }
 
 .skills-container {
-  margin-top: 50px;
   justify-items: center;
   color: white;
   display: grid;
@@ -324,7 +323,7 @@ img {
   font-weight: 900;
   font-size: 2rem;
   color: white;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .skills-header p,
@@ -370,7 +369,7 @@ img {
 }
 
 .about-image {
-  width: 50%;
+  width: 35%;
 }
 
 .about-image img{
@@ -537,7 +536,6 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: ;
   opacity: 1;
   box-shadow: 2px 2px 5px #F99A14;
 }
@@ -651,7 +649,8 @@ span {
   }
 
   .skills-section {
-    height: 70vh;
+    height: auto;
+    padding-bottom: 10px;
   }
 
   .skills-container {
