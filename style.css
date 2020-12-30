@@ -307,7 +307,7 @@ img {
   background-color: #626262;
   margin-top: 100px;
   text-align: center;
-  width: 100%;
+  height: auto;
 }
 
 .skills-container {
@@ -315,7 +315,7 @@ img {
   color: white;
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(2, 100%);
+  grid-template-rows: repeat(2, 200px);
 }
 
 .skills-header {
@@ -558,15 +558,11 @@ span {
   color: white;
 }
 
-.fa-long-arrow-alt-right {
-  margin: 0 30px;
-}
-
 .fa-linkedin-in,
 .fa-github,
 .fa-twitter,
 .fa-medium-m {
-  margin: 0 30px;
+  margin: 0 10px;
 }
 
 .fa-linkedin-in:hover,
@@ -631,7 +627,6 @@ span {
 
   li {
     padding: 10px 0;
-    margin-right: 15px;
   }
 
   .project-container {
@@ -640,11 +635,11 @@ span {
   }
 
   .project-image {
-    width: 80%;
+    width: 85%;
   }
 
   .project-texts {
-    width: 80%;
+    width: 85%;
     margin-bottom: 50px;
   }
 
@@ -659,8 +654,9 @@ span {
   }
 
   .contact-container {
-    width: 80%;
+    width: 85%;
   }
+
 }
 
 @media (max-width: 430px) {
@@ -673,10 +669,6 @@ span {
     padding-bottom: 20px;
   }
 
-  .about-text {
-    width: 55%;
-    margin: 0;
-  }
 }
 
 @media (max-width: 400px) {
