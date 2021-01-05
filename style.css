@@ -604,7 +604,7 @@ span {
   }
 }
 
-@media (max-width: 620px) {
+@media (max-width: 700px) {
   ul {
     margin-right: 10px;
     width: 20%;
@@ -612,6 +612,12 @@ span {
 
   li {
     padding: 10px 0;
+  }
+
+  .arrow-down {
+    position: absolute;
+    bottom: 0;
+    left: 45%;
   }
 
   .project-container {
@@ -639,6 +645,7 @@ span {
   .skills-container {
     display: block;
     margin-top: 0 auto;
+    padding-bottom: 30px;
   }
 
   .contact-container {
@@ -647,6 +654,10 @@ span {
 }
 
 @media (max-width: 430px) {
+  ul {
+    margin-right: 20px;
+  }
+
   .project-link {
     margin: 10px 20px 10px 10px;
   }
@@ -655,6 +666,7 @@ span {
     height: auto;
     padding-bottom: 20px;
   }
+
 }
 
 @media (max-width: 400px) {
