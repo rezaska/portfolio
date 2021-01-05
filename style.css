@@ -218,8 +218,17 @@ img {
 }
 
 .project-texts {
+  position: relative;
   width: 50%;
   padding: 0 30px 0 30px;
+}
+
+.text-container {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .app-intro {
@@ -367,6 +376,7 @@ img {
   width: 50%;
   padding-left: 30px;
   vertical-align: middle;
+  position: relative;
 }
 
 .about-text h2 {
@@ -650,6 +660,11 @@ span {
 
   .contact-container {
     width: 85%;
+  }
+
+  .text-container {
+    position: static;
+    -webkit-transform: none
   }
 }
 
