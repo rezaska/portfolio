@@ -650,6 +650,7 @@ span {
   .project-texts {
     width: 85%;
     margin-bottom: 50px;
+    padding: 0;
   }
 
   .skills-container {
