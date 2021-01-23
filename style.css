@@ -259,7 +259,7 @@ img {
   font-weight: 500;
   text-decoration: none;
   padding: 5px 25px 5px 25px;
-  border: 1px solid #1A1B1F;
+  border: 0.5px solid #1A1B1F;
   border-radius: 10px;
   margin-right: 20px;
 
@@ -285,7 +285,7 @@ img {
 .project-link:active {
   -webkit-transform: translateY(-8px);
   transform: translateY(-8px);
-  border: 1px solid #F99A14;
+  border: 0.5px solid #F99A14;
   background-color: #F99A14;
 }
 /* animation codes ends here */
@@ -388,7 +388,7 @@ img {
   font-weight: 500;
   text-decoration: none;
   padding: 7px 20px 7px 20px;
-  border: 1px solid #1A1B1F;
+  border: 0.5px solid #1A1B1F;
   border-radius: 10px;
 }
 
