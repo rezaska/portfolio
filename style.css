@@ -230,7 +230,7 @@ img {
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  margin-left: 20px;
+  margin: 15px;
 }
 
 .app-intro {
