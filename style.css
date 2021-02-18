@@ -26,6 +26,10 @@ html {
   max-width: 1200px;
 }
 
+header {
+  background-color: #363636;
+}
+
 .logo {
   position: absolute;
   top: 0;
@@ -56,6 +60,7 @@ html {
 
 .nav-text {
   text-align: right;
+  margin-right: 100px;
 }
 
 ul {
@@ -204,6 +209,10 @@ img {
 .arrow-down a {
   color: #F99A14;
   text-decoration: none;
+}
+
+.projects {
+  margin-bottom: 100px;
 }
 
 .project-container {
@@ -543,6 +552,7 @@ span {
 .fa-twitter,
 .fa-medium-m {
   margin: 0 10px;
+  color: #1A1B1F;
 }
 
 .fa-linkedin-in:hover,
