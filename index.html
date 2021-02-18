@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-QCDBXFPJQB"></script>
@@ -14,7 +14,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Reza Soleimani - Front End Developer">
-  <meta name="description" content="A web developer who has a passion for well-designed web applications that provide meaningful solutions.">
+  <meta name="description"
+    content="A web developer who has a passion for well-designed web applications that provide meaningful solutions.">
   <title>Reza Soleimani | Front End Web Developer</title>
   <link rel="shortcut icon" type="image/png" href="./assets/favicon.png">
   <link rel="stylesheet" href="style.css">
@@ -25,39 +26,30 @@
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
   <script src="https://kit.fontawesome.com/e6b6c3f0b6.js" crossorigin="anonymous"></script>
+  <script src="./script.js"></script>
 </head>
 
 <body>
   <!-- header starts here -->
-  <header>
+  <nav id="navbar">
     <div class="logo">
       <p>R</p>
       <div class="small-logo"></div>
     </div>
 
-    <nav class="nav-text">
+    <div class="nav-text">
       <ul>
         <li><a href="#about">About</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
         <li><a href="./assets/reza-soleimani-resume.pdf" target="blank_" rel="noopener noreferrer">Resume</a></li>
       </ul>
-    </nav>
-  </header>
+    </div>
+  </nav>
 
   <main>
     <!-- intro section starts here -->
     <section class="intro">
-
-      <!-- <nav class="nav-text">
-        <ul>
-          <li><a href="#about">About</a></li>
-          <li><a href="#projects">Projects</a></li>
-          <li><a href="#contact">Contact</a></li>
-          <li><a href="./assets/reza-soleimani-resume.pdf" target="blank_" rel="noopener noreferrer">Resume</a></li>
-        </ul>
-      </nav> -->
-      
       <div class="wrapper">
         <div class="intro-text">
           <h1>Hi, I'm Reza!</h1>
@@ -72,7 +64,7 @@
         </div>
 
         <div class="arrow-down bounce">
-          <a href="#projects" class="fas fa-chevron-down fa-3x"></a>
+          <a href="#about" class="fas fa-chevron-down fa-3x"></a>
         </div>
       </div>
     </section>
@@ -88,13 +80,13 @@
             <h2>About me</h2>
             <p>
               Hi, I'm Reza!<br>I'm a Front-End Developer from Toronto with a background in design and
-              architecture!<br>Today as a developer, I bring everything I love about UX/UI Design, technology and
-              innovation to every line of code I write!<br>Outside of coding, I enjoy designing things, playing video
-              games and hiking!
+              architecture!<br>Today as a developer, I bring everything I love about UX/UI Design, technology and innovation to every line of code I write!<br>Outside of coding, I enjoy playing video games, reading about technology and hiking!
             </p>
             <div class="resume-link">
-              <a href="https://www.linkedin.com/in/rsoleimani/" class="project-link" target="blank_" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i>LinkedIn Profile</a>
-              <a href="./assets/reza-soleimani-resume.pdf" class="project-link" target="blank_" rel="noopener noreferrer"><i class="fas fa-download"></i>Resume</a>
+              <a href="https://www.linkedin.com/in/rsoleimani/" class="project-link" target="blank_"
+                rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i>LinkedIn Profile</a>
+              <a href="./assets/reza-soleimani-resume.pdf" class="project-link" target="blank_"
+                rel="noopener noreferrer"><i class="fas fa-cloud-download-alt"></i>Resume</a>
             </div>
           </div>
         </div>
@@ -162,16 +154,22 @@
 
     <!-- project section starts here -->
     <section class="projects wrapper" id="projects">
+      <div class="projects-header">
+        <h2>My Projects</h2>
+      </div>
       <!-- first project starts here -->
       <div class="project-container">
         <div class="project-image">
-          <a href="https://binge-fest.netlify.app/" target="blank_" rel="noopener noreferrer"><img src="./assets/binge-fest-window.svg" alt="Binge Fest webiste"></a>
+          <a href="https://binge-fest.netlify.app/" target="blank_" rel="noopener noreferrer"><img
+              src="./assets/binge-fest-window.svg" alt="Binge Fest webiste"></a>
         </div>
         <div class="project-texts" data-aos="fade-up">
           <div class="text-container">
             <h3>Binge Fest</h3>
             <p class="app-intro">
-              This web application was built using three external APIs alongside our own persistent database that holds any bookmarked TV shows. After the user has bookmarked any notable shows they will be presented with a Google Maps that will allow them to select a location near them to list any nearby restaurants.
+              This web application was built using three external APIs alongside our own persistent database that holds
+              any bookmarked TV shows. After the user has bookmarked any notable shows they will be presented with a
+              Google Maps that will allow them to select a location near them to list any nearby restaurants.
             </p>
             <p class="languages">
               React <span class="bar">|</span>
@@ -180,8 +178,10 @@
               CSS <span class="bar">|</span>
               Team Programming
             </p>
-            <a href="https://github.com/binge-fest/binge-fest" class="project-link" target="blank_" rel="noopener noreferrer">GitHub</a>
-            <a href="https://binge-fest.netlify.app/" class="project-link" target="blank_" rel="noopener noreferrer">Live</a>
+            <a href="https://github.com/binge-fest/binge-fest" class="project-link" target="blank_"
+              rel="noopener noreferrer">GitHub</a>
+            <a href="https://binge-fest.netlify.app/" class="project-link" target="blank_"
+              rel="noopener noreferrer">Live</a>
           </div>
         </div>
       </div>
@@ -191,31 +191,37 @@
           <div class="text-container">
             <h3>So Serious!</h3>
             <p class="app-intro">
-              So Serious is a card game made with my favourite villain in the Batman series, Joker! There is also a Batman Mode as an Easter egg! 
+              So Serious is a card game made with my favourite villain in the Batman series, Joker! There is also a
+              Batman Mode as an Easter egg!
             </p>
             <p class="languages">
               jQuery <span class="bar">|</span>
               HTML <span class="bar">|</span>
               SASS/CSS
             </p>
-            <a href="https://github.com/rezaska/reza-soleimani-project-three" class="project-link" target="blank_" rel="noopener noreferrer">GitHub</a>
-            <a href="https://rezaska.github.io/reza-soleimani-project-three/" class="project-link" target="blank_" rel="noopener noreferrer">Live</a>
+            <a href="https://github.com/rezaska/reza-soleimani-project-three" class="project-link" target="blank_"
+              rel="noopener noreferrer">GitHub</a>
+            <a href="https://rezaska.github.io/reza-soleimani-project-three/" class="project-link" target="blank_"
+              rel="noopener noreferrer">Live</a>
           </div>
         </div>
         <div class="project-image">
-          <a href="https://rezaska.github.io/reza-soleimani-project-three/" target="blank_" rel="noopener noreferrer"><img src="./assets/so-serious-window.svg" alt="So Serious game"></a>
+          <a href="https://rezaska.github.io/reza-soleimani-project-three/" target="blank_"
+            rel="noopener noreferrer"><img src="./assets/so-serious-window.svg" alt="So Serious game"></a>
         </div>
       </div>
       <!-- third project starts here -->
       <div class="project-container">
         <div class="project-image">
-          <a href="https://reza-soleimani-project-five.netlify.app/" target="blank_" rel="noopener noreferrer"><img src="./assets/nextwatch-window.svg" alt="NextWatch webiste"></a>
+          <a href="https://reza-soleimani-project-five.netlify.app/" target="blank_" rel="noopener noreferrer"><img
+              src="./assets/nextwatch-window.svg" alt="NextWatch webiste"></a>
         </div>
         <div class="project-texts" data-aos="fade-up">
           <div class="text-container">
             <h3>NextWatch</h3>
             <p class="app-intro">
-              NextWatch is a movie database where you can search for the movie you want and add it to your personal watch list!
+              NextWatch is a movie database where you can search for the movie you want and add it to your personal
+              watch list!
             </p>
             <p class="languages">
               React <span class="bar">|</span>
@@ -223,8 +229,10 @@
               Firebase <span class="bar">|</span>
               CSS
             </p>
-            <a href="https://github.com/rezaska/reza-soleimani-project-five" class="project-link" target="blank_" rel="noopener noreferrer">GitHub</a>
-            <a href="https://reza-soleimani-project-five.netlify.app/" class="project-link" target="blank_" rel="noopener noreferrer">Live</a>
+            <a href="https://github.com/rezaska/reza-soleimani-project-five" class="project-link" target="blank_"
+              rel="noopener noreferrer">GitHub</a>
+            <a href="https://reza-soleimani-project-five.netlify.app/" class="project-link" target="blank_"
+              rel="noopener noreferrer">Live</a>
           </div>
         </div>
       </div>
@@ -235,7 +243,8 @@
             <h3>Phone Savvy</h3>
             <p class="app-intro">
               Phone Savvy is a simple yet functional way to find your next smartphone.
-              This app is connected to all trusted websites with related reviews and articles, which will help users see all the
+              This app is connected to all trusted websites with related reviews and articles, which will help users see
+              all the
               information on one page.
             </p>
             <p class="languages">
@@ -243,23 +252,29 @@
               Figma <span class="bar">|</span>
               InVision
             </p>
-            <a href="https://www.figma.com/file/buiXhI1Lzim5uXzsvv3QhG/Final-Copy-_-Smartphone-app?node-id=0%3A1" class="project-link" target="blank_" rel="noopener noreferrer">Figma</a>
-            <a href="https://www.figma.com/proto/buiXhI1Lzim5uXzsvv3QhG/Final-Copy-_-Smartphone-app?node-id=53%3A1021&scaling=min-zoom" class="project-link" target="blank_" rel="noopener noreferrer">Prototype</a>
+            <a href="https://www.figma.com/file/buiXhI1Lzim5uXzsvv3QhG/Final-Copy-_-Smartphone-app?node-id=0%3A1"
+              class="project-link" target="blank_" rel="noopener noreferrer">Figma</a>
+            <a href="https://www.figma.com/proto/buiXhI1Lzim5uXzsvv3QhG/Final-Copy-_-Smartphone-app?node-id=53%3A1021&scaling=min-zoom"
+              class="project-link" target="blank_" rel="noopener noreferrer">Prototype</a>
           </div>
         </div>
         <div class="project-image">
-          <a href="https://www.figma.com/proto/buiXhI1Lzim5uXzsvv3QhG/Final-Copy-_-Smartphone-app?node-id=53%3A1021&scaling=min-zoom" target="blank_" rel="noopener noreferrer"><img src="./assets/phonesavvy.jpg" alt="Phone Savvy"></a>
+          <a href="https://www.figma.com/proto/buiXhI1Lzim5uXzsvv3QhG/Final-Copy-_-Smartphone-app?node-id=53%3A1021&scaling=min-zoom"
+            target="blank_" rel="noopener noreferrer"><img src="./assets/phonesavvy.jpg" alt="Phone Savvy"></a>
         </div>
       </div>
     </section>
-    
+
     <!-- contact start here -->
     <section class="contact" id="contact">
       <div class="contact-container wrapper">
         <div class="contact-text">
           <h2>Get In Touch!</h2>
-          <p>I’m always up for making new friends, learn and exchange ideas. Let's connect to discuss!</p> 
-          <p>You can also reach me directly at <a href="mailto:rezawritescodes@gmail.com">rezawritescodes@gmail.com</a> or you can book time with me via <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/reza-soleimani'});return false;">Calendy</a>!</p>
+          <p>I’m always up for making new friends, learn and exchange ideas. Let's connect to discuss!</p>
+          <p>You can also reach me directly at <a href="mailto:rezawritescodes@gmail.com">rezawritescodes@gmail.com</a>
+            or you can book time with me via <a href=""
+              onclick="Calendly.initPopupWidget({url: 'https://calendly.com/reza-soleimani'});return false;">Calendy</a>!
+          </p>
         </div>
         <div class="form-container">
           <form action="https://formspree.io/f/xaylpvwj" method="POST">
@@ -272,10 +287,14 @@
             <input type="submit" value="submit">
           </form>
           <div class="social-media">
-            <a class="fab fa-linkedin-in fa-2x" href="https://www.linkedin.com/in/rsoleimani/" target="blank_" rel="noopener noreferrer"></a>
-            <a class="fab fa-github fa-2x" href="https://github.com/rezaska" target="blank_" rel="noopener noreferrer"></a>
-            <a class="fab fa-twitter fa-2x" href="https://twitter.com/Alirezaska" target="blank_" rel="noopener noreferrer"></a>
-            <a class="fab fa-medium-m fa-2x" href="https://reza-soleimani.medium.com/" target="blank_" rel="noopener noreferrer"></a>
+            <a class="fab fa-linkedin-in fa-2x" href="https://www.linkedin.com/in/rsoleimani/" target="blank_"
+              rel="noopener noreferrer"></a>
+            <a class="fab fa-github fa-2x" href="https://github.com/rezaska" target="blank_"
+              rel="noopener noreferrer"></a>
+            <a class="fab fa-twitter fa-2x" href="https://twitter.com/Alirezaska" target="blank_"
+              rel="noopener noreferrer"></a>
+            <a class="fab fa-medium-m fa-2x" href="https://reza-soleimani.medium.com/" target="blank_"
+              rel="noopener noreferrer"></a>
           </div>
         </div>
       </div>
@@ -283,7 +302,7 @@
   </main>
 
   <footer class="footer">
-    <div class="footer-text">&copy; Designed and Built by Reza Soleimani - 2020</div>
+    <div class="footer-text">&copy; Designed and Built by Reza Soleimani - 2021</div>
   </footer>
 
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
@@ -292,4 +311,5 @@
   </script>
   <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 </body>
+
 </html>
