@@ -279,7 +279,6 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  margin: 15px;
 }
 
 .app-intro {
