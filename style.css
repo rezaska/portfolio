@@ -46,7 +46,6 @@ html {
 
 nav {
   overflow: hidden;
-  padding-bottom: 5px;
   background-color: #363636;
 }
 
@@ -86,7 +85,7 @@ nav {
 
 .nav-text {
   text-align: right;
-  margin-right: 100px;
+  margin-right: 5%;
 }
 
 ul {
@@ -525,7 +524,6 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 .contact-text a:active {
   background-color: #F99A14;
   color: #1A1B1F;
-  box-shadow: 2px 2px 5px #F99A14;
 }
 
 .contact-text a:visited {
@@ -706,7 +704,7 @@ span {
 
   nav {
     background-color: #363636;
-    padding: 1%;
+    padding-bottom: 1%;
   }
 
   .nav-text {
@@ -784,10 +782,6 @@ span {
 }
 
 @media (max-width: 430px) {
-
-  .nav-text {
-    right: -2%;
-  }
 
   #resume {
     display: none;

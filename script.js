@@ -16,6 +16,7 @@ function scrollFunction() {
   }
 }
 
+// Hamburger menu function
 const hamburgerMenu = document.querySelector('.hamburger');
 
 hamburgerMenu.addEventListener('click', (e) => {
@@ -27,3 +28,13 @@ hamburgerMenu.addEventListener('click', (e) => {
     menu.style.display = 'none';
   }
 });
+
+// Back to top function
+const logo = document.querySelector('.logo');
+
+function backToTop() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+
+logo.addEventListener('click', backToTop);
