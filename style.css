@@ -47,6 +47,7 @@ html {
 nav {
   overflow: hidden;
   background-color: #363636;
+  padding-bottom: 1%;
 }
 
 .sticky {
@@ -96,8 +97,8 @@ ul {
 li {
   display: inline-block;
   color: white;
-  padding-left: 70px;
-  padding-top: 20px;
+  padding-left: 5%;
+  padding-top: 1%;
 }
 
 li a {
@@ -105,7 +106,7 @@ li a {
   font-size: 1rem;
   font-weight: 400;
   text-decoration: none;
-  padding-bottom: 10px;
+  padding-bottom: 10%;
   /* hover effect starts here */
   display: inline-block;
   vertical-align: middle;
@@ -127,7 +128,7 @@ li a:before {
   right: 50%;
   bottom: 0;
   background: #F99A14;
-  height: 3px;
+  height: 10%;
   -webkit-transition-property: left, right;
   transition-property: left, right;
   -webkit-transition-duration: 0.3s;
@@ -170,7 +171,7 @@ li a:visited {
 
 .fa-map-pin {
   color: #F99A14;
-  margin-right: 5px;
+  margin-right: 2%;
 }
 
 .location p {
@@ -208,8 +209,8 @@ img {
   color: white;
   background: transparent;
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 15%;
+  right: 1%;
 }
 
 /* arrow animaton starts here */
@@ -269,7 +270,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 /* animation ends here */
 
 .projects {
-  margin-bottom: 100px;
+  margin-bottom: 10%;
 }
 
 .project-container {
@@ -277,7 +278,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   justify-content: center;
   flex-direction: row; 
   flex-wrap: wrap;
-  margin-top: 100px;
+  margin-top: 10%;
 }
 
 .project-image {
@@ -295,7 +296,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  padding: 0 30px;
+  padding: 0 10%;
 }
 
 .app-intro {
@@ -314,12 +315,12 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 1rem;
-  margin: 25px 0 25px 0;
+  margin: 6% 0;
 }
 
 .projects-header {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 10%;
 }
 
 .projects-header h2 {
@@ -334,10 +335,11 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   text-decoration: none;
-  padding: 5px 25px 5px 25px;
+  padding: 1% 5%;
   border: 0.5px solid #1A1B1F;
   border-radius: 10px;
-  margin-right: 20px;
+  margin-right: 5%;
+  margin-top: 2%;
 
   /* animation codes starts here */
   display: inline-block;
@@ -377,10 +379,10 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 
 .skills-section {
   background-color: #363636;
-  margin-top: 100px;
+  margin-top: 10%;
   text-align: center;
   height: auto;
-  padding: 20px 0 20px 0;
+  padding: 2% 0;
 }
 
 .skills-container {
@@ -402,7 +404,6 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   display: inline-block;
   height: 40px;
   width: 65px;
-  margin: 20px;
 }
 
 .skills-logo p {
@@ -410,11 +411,11 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 1rem;
+  margin-top: 15%;
 }
 
 .about { 
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin: 10% 0;
 }
 
 .about-container {
@@ -434,7 +435,6 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 
 .about-text {
   width: 50%;
-  padding-left: 30px;
   vertical-align: middle;
   position: relative;
 }
@@ -450,11 +450,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   font-weight: 400;
   font-size: 1.1rem;
   line-height: 1.5em;
-  margin-top: 40px;
-}
-
-.fa-cloud-download-alt {
-  padding-right: 10px;
+  margin-top: 10%;
 }
 
 .about-text a {
@@ -463,8 +459,8 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   text-decoration: none;
-  padding: 7px 20px 7px 20px;
-  margin: 5px;
+  padding: 1.5% 5%;
+  margin: 1%;
   border: 0.5px solid #1A1B1F;
   border-radius: 10px;
 }
@@ -475,7 +471,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 }
 
 .resume-link {
-  margin-top: 30px;
+  margin-top: 5%;
   width: 100%;
 }
 
@@ -487,13 +483,13 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   width: 50%;
   height: auto;
   margin: 0 auto;
-  padding: 10px;
+  padding: 1%;
   position: relative;
   max-width: 1200px;
 }
 
 .contact-text {
-  margin: 50px 0;
+  margin: 10% 0;
 }
 
 .contact-text h2 {
@@ -515,7 +511,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   text-decoration: none;
   color: #F99A14;
   font-weight: 500;
-  padding: 5px 8px;
+  padding: 0.5%;
   border-radius: 5px;
 }
 
@@ -534,10 +530,6 @@ html body [data-ca3_iconfont="ETmodules"]::before {
   display: block;
 }
 
-form {
-  margin-top: 50px;
-}
-
 label {
   font-family: 'Martel', serif;
   font-weight: 500;
@@ -545,30 +537,16 @@ label {
   color: white;
 }
 
-input[type=text] {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 2px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-bottom: 30px;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
-  font-size: 1rem;
-  color: #A2A2A2;
-}
-
+input[type=text],
 textarea {
   width: 100%;
-  padding: 12px 20px;
-  margin: 2px 0;
+  padding: 2%;
+  margin: 1% 0;
   display: inline-block;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-  margin-bottom: 30px;
+  margin-bottom: 5%;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 1rem;
@@ -580,8 +558,8 @@ input[type=submit] {
   background-color: #F99A14;
   opacity: 0.5;
   color: black;
-  padding: 14px 20px;
-  margin: 8px 0;
+  padding: 2%;
+  margin: 1% 0;
   border: none;
   border-radius: 4px;
   cursor: pointer;
@@ -598,7 +576,7 @@ input[type=submit]:hover {
 
 .social-media {
   width: 100%;
-  margin: 50px 0;
+  margin: 6% 0;
   text-align: center;
 }
 
@@ -618,7 +596,7 @@ span {
 .fa-github,
 .fa-twitter,
 .fa-medium-m {
-  margin: 0 10px;
+  margin: 0 2%;
   color: #F99A14;
 }
 
@@ -662,12 +640,6 @@ span {
   }
 }
 
-@media (max-width: 970px) {
-  .about-text a {
-    margin: 5px;
-  }
-}
-
 @media (max-width: 900px) {
   .about-container {
     display: block;
@@ -679,11 +651,6 @@ span {
 
   .about-text {
     width: auto;
-  }
-  
-  .about {
-    margin-top: 50px;
-    margin-bottom: 50px;
   }
 
   .resume-link {
@@ -702,11 +669,6 @@ span {
     display: block;
   }
 
-  nav {
-    background-color: #363636;
-    padding-bottom: 1%;
-  }
-
   .nav-text {
     display: none;
     position: absolute;
@@ -723,6 +685,7 @@ span {
 
   li {
     padding-left: 5%;
+    padding-top: 3%;
   }
 
   .intro-text {
@@ -736,11 +699,10 @@ span {
   }
 
   .skills-logo {
-    margin: 50px 20px;
+    margin: 10% 7%;
   }
 
   .project-container {
-    margin-top: 50px;
     text-align: center;
   }
 
@@ -758,14 +720,14 @@ span {
 
   .project-texts {
     width: 85%;
-    margin-bottom: 50px;
+    margin-bottom: 10%;
     padding: 0;
   }
 
   .skills-container {
     display: block;
     margin-top: 0 auto;
-    padding-bottom: 30px;
+    padding-bottom: 5%;
   }
 
   .contact-container {
@@ -777,7 +739,8 @@ span {
   }
 
   .about-text {
-    padding: 0px;
+    padding: 0;
+    padding: 5% 0;
   }
 }
 
@@ -788,17 +751,11 @@ span {
   }
 
   .project-link {
-    margin: 10px 20px 10px 10px;
+    margin: 2% 5%;
   }
 
   .skills-section {
     height: auto;
-    padding-bottom: 20px;
-  }
-}
-
-@media (max-width: 400px) {
-  .project-link {
-    margin: 10px 20px 10px 10px;
+    padding-bottom: 10%;
   }
 }
