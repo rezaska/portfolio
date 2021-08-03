@@ -47,6 +47,7 @@ html {
 nav {
   overflow: hidden;
   padding-bottom: 5px;
+  background-color: #363636;
 }
 
 .sticky {
@@ -715,7 +716,7 @@ span {
     right: 5%;
     width: 100%;
     text-align: center;
-    margin-right: 30px;
+    margin-right: 1%;
   }
 
   .logo {
