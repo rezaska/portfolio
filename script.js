@@ -1,13 +1,11 @@
-// When the user scrolls the page, execute myFunction
+// When the user scrolls the page, execute scrollFunction
 window.onscroll = function () { scrollFunction() };
 
-// Get the navbar
-const navbar = document.getElementById('navbar');
-
-// Get the offset position of the navbar
-const sticky = navbar.offsetTop;
 
 // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+const navbar = document.getElementById('navbar');
+const sticky = navbar.offsetTop;
+
 function scrollFunction() {
   if (window.pageYOffset >= sticky) {
     navbar.classList.add('sticky')
@@ -16,11 +14,12 @@ function scrollFunction() {
   }
 }
 
+
 // Hamburger menu function
 const hamburgerMenu = document.querySelector('.hamburger');
 
 hamburgerMenu.addEventListener('click', (e) => {
-  console.log('hello');
+
   let menu = document.querySelector('.nav-text');
   if (menu.style.display === 'none') {
     menu.style.display = 'inline-block';
@@ -28,6 +27,7 @@ hamburgerMenu.addEventListener('click', (e) => {
     menu.style.display = 'none';
   }
 });
+
 
 // Back to top function
 const logo = document.querySelector('.logo');
