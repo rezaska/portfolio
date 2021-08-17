@@ -19,7 +19,6 @@ function scrollFunction() {
 const hamburgerMenu = document.querySelector('.hamburger');
 
 hamburgerMenu.addEventListener('click', (e) => {
-
   let menu = document.querySelector('.nav-text');
   if (menu.style.display === 'none') {
     menu.style.display = 'inline-block';
