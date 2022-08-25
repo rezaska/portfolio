@@ -35,6 +35,8 @@
     <id>https://contentgems.com/i_urls/351122504</id>
     <published>2022-08-23T01:02:54Z</published>
     <updated>2022-08-23T01:02:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://www.vancouverisawesome.com/highlights/we-are-salmon-people-first-nation-leaders-in-bc-demand-audience-with-fisheries-minister-5479290"/>
+    <link href="https://www.vancouverisawesome.com/highlights/we-are-salmon-people-first-nation-leaders-in-bc-demand-audience-with-fisheries-minister-5479290"/>
     <title type="text">'We are salmon people': First Nation leaders in B.C. demand audience with fisheries minister</title>
     <content type="html">
       &lt;p&gt;&lt;img src=&quot;https://www.vmcdn.ca/f/files/princegeorgematters/pgc-images/environment/tyronemcneil.jpg;w=960&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;&quot; /&gt;;&lt;/p&gt;
@@ -43,9 +45,7 @@
     <author>
       <name>Via ContentGems</name>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://www.vmcdn.ca/f/files/princegeorgematters/pgc-images/environment/tyronemcneil.jpg;w=960" />
-    <link rel="alternate" type="text/html" href="https://www.vancouverisawesome.com/highlights/we-are-salmon-people-first-nation-leaders-in-bc-demand-audience-with-fisheries-minister-5479290"/>
-    <link href="https://www.vancouverisawesome.com/highlights/we-are-salmon-people-first-nation-leaders-in-bc-demand-audience-with-fisheries-minister-5479290"/>
+    <media:content url="https://www.vmcdn.ca/f/files/princegeorgematters/pgc-images/environment/tyronemcneil.jpg;w=960" type="image/jpeg"/>
   </entry>
 
 
