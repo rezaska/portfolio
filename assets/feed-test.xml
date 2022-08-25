@@ -21,7 +21,7 @@
     <link href="https://beltmag.com/home-lands-indigenous-diaspora-great-lakes/"/>
     <title type="text">Home/Lands: Indigenous diasporas and making ‘home’ in the Rust Belt</title>
     <content type="html">
-      &lt;p&gt; Indigenous diasporas and making 'home' in the Rust Belt By Kasey Keeler I vividly remember my first explorations of family history and genealogy. I was a graduate student, spending the summer in Chicago at the Newberry Library. As a participant in the Newberry Consortium for American Indian... &lt;/p&gt;
+      <p> Indigenous diasporas and making 'home' in the Rust Belt By Kasey Keeler I vividly remember my first explorations of family history and genealogy. I was a graduate student, spending the summer in Chicago at the Newberry Library. As a participant in the Newberry Consortium for American Indian... </p>
     </content>
     <author>
       <name>Via ContentGems</name>
@@ -45,25 +45,21 @@
     <media:content url="https://www.vmcdn.ca/f/files/princegeorgematters/pgc-images/environment/tyronemcneil.jpg;w=960" type="image/jpeg"/>
   </entry>
 
-
-
-
-<entry>
-    <title>Stellars Jay</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pjmaudsley/52301956570/in/pool-39777562@N00"/>
-    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52301956570</id>
+  <entry>
+    <id>https://contentgems.com/i_urls/351102140</id>
     <published>2022-08-21T18:26:26Z</published>
     <updated>2022-08-21T18:26:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://beltmag.com/home-lands-indigenous-diaspora-great-lakes/"/>
+    <link href="https://beltmag.com/home-lands-indigenous-diaspora-great-lakes/"/>
+    <title>Stellars Jay</title>
     <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/pjmaudsley/&quot;&gt;pjmaudsley&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/pjmaudsley/52301956570/&quot; title=&quot;Stellars Jay&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52301956570_7678c34070_m.jpg&quot; width=&quot;240&quot; height=&quot;240&quot; alt=&quot;Stellars Jay&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/pjmaudsley/52301956570/&quot; title=&quot;Stellars Jay&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52301956570_7678c34070_m.jpg&quot; width=&quot;240&quot; height=&quot;240&quot; alt=&quot;Stellars Jay&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Peachland, B.C.&lt;/p&gt;</content>
+    &lt;p&gt;Peachland, B.C.&lt;/p&gt;</content>
     <author>
-      <name>pjmaudsley</name>
-      <uri>https://www.flickr.com/people/pjmaudsley/</uri>
+      <name>Via ContentGems</name>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52301956570_7678c34070_b.jpg" />
-    </entry>
+  </entry>
 
 <entry>
     <title>American Kestrel</title>
