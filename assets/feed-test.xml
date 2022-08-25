@@ -1,232 +1,564 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<feed xml:lang="en-US"
-      xmlns="http://www.w3.org/2005/Atom"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:flickr="urn:flickr:user"
       xmlns:media="http://search.yahoo.com/mrss/">
-  <id>tag:contentgems.com,2005:/feeds/v3/buckets/LNPmodrktzisygT5as1h</id>
-  <link rel="alternate" type="text/html" href="https://contentgems.com"/>
-  <link rel="self" type="application/atom+xml" href="https://contentgems.com/feeds/v3/buckets/LNPmodrktzisygT5as1h"/>
+
   <title>Animikii: Newsletter (Mailchimp)</title>
-  <updated>2022-06-16T02:25:28Z</updated>
-  <author>
-    <name>Via ContentGems</name>
-  </author>
-    <entry>
+  <link rel="self" href="http://www.flickr.com/services/feeds/groups_pool.gne?id=39777562@N00&amp;lang=en-us&amp;format=atom" />
+  <link rel="alternate" type="text/html" href="https://www.flickr.com/groups/birdphotographybc/pool/"/>
+  <id>tag:flickr.com,2005:/grouppool/39777562@N00</id>
+  <icon>https://farm8.staticflickr.com/7857/buddyicons/39777562@N00.jpg?1555509023</icon>
+  <updated>2022-08-24T03:48:11Z</updated>
+  <generator uri="https://www.flickr.com/">Flickr</generator>
+
+<entry>
+    <title type="text">Home/Lands: Indigenous diasporas and making ‘home’ in the Rust Belt</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/166393723@N02/52306304227/in/pool-39777562@N00"/>
     <id>https://contentgems.com/i_urls/351102140</id>
     <published>2022-06-22T20:25:28Z</published>
     <updated>2022-06-221T20:25:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://beltmag.com/home-lands-indigenous-diaspora-great-lakes/"/>
-    <link href="https://beltmag.com/home-lands-indigenous-diaspora-great-lakes/"/>
-    <title type="text">Home/Lands: Indigenous diasporas and making ‘home’ in the Rust Belt</title>
-    <content type="html">Indigenous diasporas and making 'home' in the Rust Belt By Kasey Keeler I vividly remember my first explorations of family history and genealogy. I was a graduate student, spending the summer in Chicago at the Newberry Library. As a participant in the Newberry Consortium for American Indian...</content>
-    <link rel="enclosure" type="image/jpeg" href="https://beltmag.com/wp-content/uploads/2022/06/Home_Lands-story-artV2jpg.jpg"/>
+    <flickr:date_taken>2022-07-21T07:45:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-07-21T07:45:52-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/166393723@N02/&quot;&gt;dhklee&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/166393723@N02/52306304227/&quot; title=&quot;Sora Porzana carolina (Juvenile)&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52306304227_9cf32ca642_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;Sora Porzana carolina (Juvenile)&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>dhklee</name>
+      <uri>https://www.flickr.com/people/166393723@N02/</uri>
+      <flickr:nsid>166393723@N02</flickr:nsid>
     </author>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/351122504</id>
-    <published>2022-06-22T19:25:28Z</published>
-    <updated>2022-06-22T19:25:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.vancouverisawesome.com/highlights/we-are-salmon-people-first-nation-leaders-in-bc-demand-audience-with-fisheries-minister-5479290"/>
-    <link href="https://www.vancouverisawesome.com/highlights/we-are-salmon-people-first-nation-leaders-in-bc-demand-audience-with-fisheries-minister-5479290"/>
-    <title type="text">'We are salmon people': First Nation leaders in B.C. demand audience with fisheries minister</title>
-    <content type="html">He and other First Nations leaders and communities in B.dependent on salmon are grieving the ongoing disappearance of the fish that defines them. And they are angry Fisheries and Oceans Canada (DFO) continues to deny their constitutional right of first access to fish, said McNeil, president of Stó꞉Tribal Council. <img src="https://www.vmcdn.ca/f/files/princegeorgematters/pgc-images/environment/tyronemcneil.jpg;w=960" /></content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52306304227_9cf32ca642_b.jpg" />
+    <category term="sora" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birdportrait" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birdgraphy" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birdingphotography" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birdwatching" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birdphoto" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="wildbird" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bcbirds" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bcbird" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="rails" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="water" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Stellars Jay</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pjmaudsley/52305065903/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52305065903</id>
+    <published>2022-08-23T01:02:54Z</published>
+    <updated>2022-08-23T01:02:54Z</updated>
+    <flickr:date_taken>2022-08-20T10:23:24-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-20T10:23:24-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/pjmaudsley/&quot;&gt;pjmaudsley&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/pjmaudsley/52305065903/&quot; title=&quot;Stellars Jay&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52305065903_729d0b9579_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;Stellars Jay&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Peachland, B.C.&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>pjmaudsley</name>
+      <uri>https://www.flickr.com/people/pjmaudsley/</uri>
+      <flickr:nsid>22911066@N07</flickr:nsid>
     </author>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/351102140</id>
-    <published>2022-06-22T18:25:28Z</published>
-    <updated>2022-06-22T18:25:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://beltmag.com/home-lands-indigenous-diaspora-great-lakes/"/>
-    <link href="https://beltmag.com/home-lands-indigenous-diaspora-great-lakes/"/>
-    <title type="text">Home/Lands: Indigenous diasporas and making ‘home’ in the Rust Belt</title>
-    <content type="html">Indigenous diasporas and making 'home' in the Rust Belt By Kasey Keeler I vividly remember my first explorations of family history and genealogy. I was a graduate student, spending the summer in Chicago at the Newberry Library. As a participant in the Newberry Consortium for American Indian... <img src="https://beltmag.com/wp-content/uploads/2022/06/Home_Lands-story-artV2jpg.jpg" /></content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52305065903_729d0b9579_b.jpg" />
+    <category term="" scheme="https://www.flickr.com/photos/tags/" />
+    </entry>
+
+<entry>
+    <title>South Abbotsford Kestrel</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/nickinthegarden/52303595006/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52303595006</id>
+    <published>2022-08-22T15:43:05Z</published>
+    <updated>2022-08-22T15:43:05Z</updated>
+    <flickr:date_taken>2022-08-22T07:54:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-22T07:54:00-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nickinthegarden/&quot;&gt;nickinthegarden&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nickinthegarden/52303595006/&quot; title=&quot;South Abbotsford Kestrel&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52303595006_8bbd30960d_m.jpg&quot; width=&quot;240&quot; height=&quot;171&quot; alt=&quot;South Abbotsford Kestrel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have spent time this spring and summer photographing an American Kestrel family on the Matsqui Flats. This morning I was on the Sumas Prairie very close to the American border and came across three male Kestrels, likely a completely different family.&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>nickinthegarden</name>
+      <uri>https://www.flickr.com/people/nickinthegarden/</uri>
+      <flickr:nsid>94239231@N04</flickr:nsid>
     </author>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/351100350</id>
-    <published>2022-06-18T22:25:28Z</published>
-    <updated>2022-06-18T22:25:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://thetyee.ca/Culture/2022/06/14/Wolf-Clan-In-Whistler/"/>
-    <link href="https://thetyee.ca/Culture/2022/06/14/Wolf-Clan-In-Whistler/"/>
-    <title type="text">In Whistler, the Wolf Clan Is Here</title>
-    <content type="html">The Audain Art Museum in Whistler is something to see. In addition to the building itself, which is remarkable enough, there is the art inside. It's always something of a curious experience to see paintings in the flesh, especially images that one has been long familiar with, like the work of Emily Carr or E.Hughes.</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52303595006_8bbd30960d_b.jpg" />
+    <category term="americankestrel" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="sumasprairie" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="abbotsfordbccanada" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Stellars Jay</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/pjmaudsley/52301956570/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52301956570</id>
+    <published>2022-08-21T18:26:26Z</published>
+    <updated>2022-08-21T18:26:26Z</updated>
+    <flickr:date_taken>2022-08-20T12:33:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-20T12:33:55-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/pjmaudsley/&quot;&gt;pjmaudsley&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/pjmaudsley/52301956570/&quot; title=&quot;Stellars Jay&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52301956570_7678c34070_m.jpg&quot; width=&quot;240&quot; height=&quot;240&quot; alt=&quot;Stellars Jay&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Peachland, B.C.&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>pjmaudsley</name>
+      <uri>https://www.flickr.com/people/pjmaudsley/</uri>
+      <flickr:nsid>22911066@N07</flickr:nsid>
     </author>
-    <media:content url="https://thetyee.ca/Culture/2022/06/13/WolfBowl.jpg" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/351100045</id>
-    <published>2022-06-17T22:25:28Z</published>
-    <updated>2022-06-17T22:25:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.cbc.ca/news/canada/edmonton/angela-houle-pro-card-strongwoman-1.6484587"/>
-    <link href="https://www.cbc.ca/news/canada/edmonton/angela-houle-pro-card-strongwoman-1.6484587"/>
-    <title type="text">Meet Angela Houle, the Indigenous strongwoman fighting for her pro card Social Sharing</title>
-    <content type="html">An Indigenous strongwoman is competing this week in Fort McMurray as the only female amateur in the Pro Am competition. Plus, she's competing alongside her own coach. Angela Houle is battling for a spot in Canada's Strongest Woman, so she can enter and become the first Indigenous woman to get her...</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52301956570_7678c34070_b.jpg" />
+    <category term="" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>American Kestrel</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/nickinthegarden/52300036380/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52300036380</id>
+    <published>2022-08-20T23:23:25Z</published>
+    <updated>2022-08-20T23:23:25Z</updated>
+    <flickr:date_taken>2022-07-19T08:13:52-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-07-19T08:13:52-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nickinthegarden/&quot;&gt;nickinthegarden&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nickinthegarden/52300036380/&quot; title=&quot;American Kestrel&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52300036380_0829a91774_m.jpg&quot; width=&quot;240&quot; height=&quot;171&quot; alt=&quot;American Kestrel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More from the back log&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>nickinthegarden</name>
+      <uri>https://www.flickr.com/people/nickinthegarden/</uri>
+      <flickr:nsid>94239231@N04</flickr:nsid>
     </author>
-    <media:content url="https://i.cbc.ca/1.6484593.1654879512!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/angela-houle-2.jpg" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/351071819</id>
-    <published>2022-06-16T22:25:28Z</published>
-    <updated>2022-06-16T22:25:28Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.cbc.ca/newsinteractives/features/alberta-first-nations-wild-meat-school-meal-program"/>
-    <link href="https://www.cbc.ca/newsinteractives/features/alberta-first-nations-wild-meat-school-meal-program"/>
-    <title type="text">Feeding the spirit of First Nations students</title>
-    <content type="html">On this day, wild game is part of the meal plan offered at the Lubicon Lake Band's Mihkowapikwaniy cultural camp, located about 450 kilometres northwest of Edmonton, where students from nearby First Nations are also learning about food traditions like smoking and drying meat and gathering medicines from the land.</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52300036380_0829a91774_b.jpg" />
+    <category term="americankestrel" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="matsquiflats" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="abbotsfordbccanada" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Great Blue Heron preening</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/nicolebeaulac/52297808496/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52297808496</id>
+    <published>2022-08-20T05:20:22Z</published>
+    <updated>2022-08-20T05:20:22Z</updated>
+    <flickr:date_taken>2022-08-03T13:52:05-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-03T13:52:05-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nicolebeaulac/&quot;&gt;nicolebeaulac&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nicolebeaulac/52297808496/&quot; title=&quot;Great Blue Heron preening&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52297808496_633468cf77_m.jpg&quot; width=&quot;240&quot; height=&quot;240&quot; alt=&quot;Great Blue Heron preening&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Deep Bay, BC&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>nicolebeaulac</name>
+      <uri>https://www.flickr.com/people/nicolebeaulac/</uri>
+      <flickr:nsid>25492008@N08</flickr:nsid>
     </author>
-    <media:content url="https://www.cbc.ca/newsinteractives/content/images/cooking_5.jpg" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/351012798</id>
-    <published>2022-06-15T22:25:27Z</published>
-    <updated>2022-06-15T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.cbc.ca/news/canada/british-columbia/7-generations-cup-skateboarding-langley-1.6485545"/>
-    <link href="https://www.cbc.ca/news/canada/british-columbia/7-generations-cup-skateboarding-langley-1.6485545"/>
-    <title type="text">Indigenous-hosted skateboarding competition kicks off in Langley, B.C.</title>
-    <content type="html">Professional skateboarders from around the world are in Langley, B.C., this weekend for a new competition, hosted and led by a local First Nation. The 7 Generations Cup, happening at the Langley Events Centre on the traditional territories of the Kwantlen First Nation, blends Indigenous...</content>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en" />
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52297808496_633468cf77_b.jpg" />
+    <category term="" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Osprey</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/nickinthegarden/52297544778/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52297544778</id>
+    <published>2022-08-20T01:47:41Z</published>
+    <updated>2022-08-20T01:47:41Z</updated>
+    <flickr:date_taken>2022-08-19T07:57:38-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-19T07:57:38-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nickinthegarden/&quot;&gt;nickinthegarden&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nickinthegarden/52297544778/&quot; title=&quot;Osprey&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52297544778_8eb6b24769_m.jpg&quot; width=&quot;240&quot; height=&quot;171&quot; alt=&quot;Osprey&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One lone Osprey was still in the nest when I arrived. They had fledged 2 weeks ago. It would fly off with it&#039;s sibling and Mama while I was there.&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>nickinthegarden</name>
+      <uri>https://www.flickr.com/people/nickinthegarden/</uri>
+      <flickr:nsid>94239231@N04</flickr:nsid>
     </author>
-    <media:content url="https://i.cbc.ca/1.6485567.1654916847!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/7-generations-cup.jpg" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/351010806</id>
-    <published>2022-06-14T22:25:27Z</published>
-    <updated>2022-06-14T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://thenarwhal.ca/sinixt-celebration-nelson-bc/"/>
-    <link href="https://thenarwhal.ca/sinixt-celebration-nelson-bc/"/>
-    <title type="text">‘Our people are coming home’: Sinixt finally gather to celebrate their Supreme Court win</title>
-    <content type="html">Thanks for being an avid reader of our in-depth journalism, which is read by millions and made possible thanks to thousands of readers just like you. The Narwhal's growing team is hitting the ground running in 2022 to tell stories about the natural world that go beyond doom-and-gloom headlines — and we need your support.</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52297544778_8eb6b24769_b.jpg" />
+    <category term="osprey" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="matsquitrailpark" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="pageroad" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="abbotsfordbccanada" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Bushtit</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/guylmonty/52295728169/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52295728169</id>
+    <published>2022-08-19T03:38:15Z</published>
+    <updated>2022-08-19T03:38:15Z</updated>
+    <flickr:date_taken>2022-08-18T13:32:12-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-18T13:32:12-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/guylmonty/&quot;&gt;poecile05&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/guylmonty/52295728169/&quot; title=&quot;Bushtit&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52295728169_86cde2ed53_m.jpg&quot; width=&quot;240&quot; height=&quot;179&quot; alt=&quot;Bushtit&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Qualicum Beach, Vancouver Island, BC&lt;br /&gt;
+August 18, 2022&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>poecile05</name>
+      <uri>https://www.flickr.com/people/guylmonty/</uri>
+      <flickr:nsid>82143856@N00</flickr:nsid>
     </author>
-    <media:content url="https://thenarwhal.ca/wp-content/uploads/2022/06/mike_graeme_photos-10-1024x684.jpg" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350979808</id>
-    <published>2022-06-13T22:25:27Z</published>
-    <updated>2022-06-13T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.cbc.ca/newsinteractives/features/residential-school-remains-repatriation-rosebud-sioux-tribe-south-dakota"/>
-    <link href="https://www.cbc.ca/newsinteractives/features/residential-school-remains-repatriation-rosebud-sioux-tribe-south-dakota"/>
-    <title type="text">How you bring them home</title>
-    <content type="html">At first, the councillors hesitated, but eventually they got on board. Invigorated, the youth council launched the campaign themselves; they applied for grants, contacted descendants, prepared presentations and wrote affidavits. A detailed spreadsheet with information about hundreds of children they believe attended the school is still pinned to the walls of the Tokala Inajinyo's main office, as is newspaper coverage of their work.</content>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en" />
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52295728169_86cde2ed53_b.jpg" />
+    <category term="psaltriparusminimus" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bushtit" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="vancouverisland" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bc" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="qualicumbeach" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="female" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bird" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Black-bellied Plover</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/rhhardy/52296680251/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52296680251</id>
+    <published>2022-08-19T17:08:16Z</published>
+    <updated>2022-08-19T17:08:16Z</updated>
+    <flickr:date_taken>2022-08-17T11:42:48-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-17T11:42:48-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/rhhardy/&quot;&gt;R Hardy&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/rhhardy/52296680251/&quot; title=&quot;Black-bellied Plover&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52296680251_30f7a9bbe6_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;Black-bellied Plover&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Deep Bay, BC&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>R Hardy</name>
+      <uri>https://www.flickr.com/people/rhhardy/</uri>
+      <flickr:nsid>120484733@N07</flickr:nsid>
     </author>
-    <media:content url="https://www.cbc.ca/newsinteractives/content/images/DKC_PC200202_f06.jpeg" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350900895</id>
-    <published>2022-06-12T22:25:27Z</published>
-    <updated>2022-06-12T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.cbc.ca/news/canada/calgary/dellas-story-virtual-escape-room-sixties-scoop-1.6479567"/>
-    <link href="https://www.cbc.ca/news/canada/calgary/dellas-story-virtual-escape-room-sixties-scoop-1.6479567"/>
-    <title type="text">A virtual escape room is teaching people about the Sixties Scoop — through one survivor's story</title>
-    <content type="html">Over Zoom, a group of coworkers make their way through a barn and a residential school classroom — analyzing photos, diary entries and other clues to unlock the story of a Sixties Scoop survivor named Della. This is Della's Story: an online escape room game that's helping thousands of people to...</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52296680251_30f7a9bbe6_b.jpg" />
+    <category term="plover" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="blackbelliedplover" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="deepbay" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="vancouverisland" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>California Quail</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/tylerhuestis/52296657790/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52296657790</id>
+    <published>2022-08-19T12:48:43Z</published>
+    <updated>2022-08-19T12:48:43Z</updated>
+    <flickr:date_taken>2022-08-03T07:40:38-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-03T07:40:38-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/tylerhuestis/&quot;&gt;tylerhuestis&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/tylerhuestis/52296657790/&quot; title=&quot;California Quail&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52296657790_2f645a76d6_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;California Quail&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>tylerhuestis</name>
+      <uri>https://www.flickr.com/people/tylerhuestis/</uri>
+      <flickr:nsid>58338638@N04</flickr:nsid>
     </author>
-    <media:content url="https://i.cbc.ca/1.6479594.1654648239!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/della-s-story.jpg" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350895124</id>
-    <published>2022-06-11T22:25:27Z</published>
-    <updated>2022-06-11T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.cbc.ca/books/readinglists/6-books-on-canada-s-residential-schools-recommended-by-duncan-mccue-and-the-kuper-island-podcast-team-1.6480142"/>
-    <link href="https://www.cbc.ca/books/readinglists/6-books-on-canada-s-residential-schools-recommended-by-duncan-mccue-and-the-kuper-island-podcast-team-1.6480142"/>
-    <title type="text">6 books on Canada's residential schools recommended by Duncan McCue and the Kuper Island podcast team</title>
-    <content type="html">The new CBC Podcast series, Kuper Island, tells the story of four students: three who survived and one who didn't. They attended one of Canada's most notorious residential schools — where unsolved deaths, abuse and lies haunt the community and the survivors to this day.Kuper Island is an...</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52296657790_2f645a76d6_b.jpg" />
+    <category term="bird" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="ornithology" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="kelowna" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bc" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="britishcolumbia" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="canada" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="wildlife" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="nature" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="tamron150600" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>California Quail</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/tylerhuestis/52296165541/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52296165541</id>
+    <published>2022-08-19T12:48:43Z</published>
+    <updated>2022-08-19T12:48:43Z</updated>
+    <flickr:date_taken>2022-08-03T07:33:11-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-03T07:33:11-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/tylerhuestis/&quot;&gt;tylerhuestis&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/tylerhuestis/52296165541/&quot; title=&quot;California Quail&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52296165541_67b3a6c773_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;California Quail&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>tylerhuestis</name>
+      <uri>https://www.flickr.com/people/tylerhuestis/</uri>
+      <flickr:nsid>58338638@N04</flickr:nsid>
     </author>
-    <media:content url="https://i.cbc.ca/1.6482617.1654776531!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kuper-island.jpg" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350851109</id>
-    <published>2022-06-10T22:25:27Z</published>
-    <updated>2022-06-10T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.shopify.com/blog/indigenous-box"/>
-    <link href="https://www.shopify.com/blog/indigenous-box"/>
-    <title type="text">This Subscription Box Is Uplifting Indigenous Entrepreneurs</title>
-    <content type="html">When Mallory Yawnghwe studied supply chain management at university, it felt inherently familiar. "I realized that my people have been here before," says Mallory, who grew up on the Saddle Lake Cree Nation in Alberta, Canada on Treaty 6 territory. "Indigenous people are architects of this vast...</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52296165541_67b3a6c773_b.jpg" />
+    <category term="bird" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="ornithology" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="kelowna" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bc" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="britishcolumbia" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="canada" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="wildlife" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="nature" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="tamron150600" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>California Quail</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/tylerhuestis/52296657625/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52296657625</id>
+    <published>2022-08-19T12:48:42Z</published>
+    <updated>2022-08-19T12:48:42Z</updated>
+    <flickr:date_taken>2022-08-03T07:26:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-03T07:26:59-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/tylerhuestis/&quot;&gt;tylerhuestis&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/tylerhuestis/52296657625/&quot; title=&quot;California Quail&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52296657625_a2862df454_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;California Quail&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>tylerhuestis</name>
+      <uri>https://www.flickr.com/people/tylerhuestis/</uri>
+      <flickr:nsid>58338638@N04</flickr:nsid>
     </author>
-    <media:content url="https://cdn.shopify.com/s/files/1/0070/7032/files/Untitled_design_2d1906c9-124a-41fa-8fd6-969484825ad4.jpg?v=1654785878" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350732435</id>
-    <published>2022-06-09T22:25:27Z</published>
-    <updated>2022-06-09T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.straight.com/arts/talking-stick-festival-celebrates-indigenous-history-month-with-dance-performances-live-music"/>
-    <link href="https://www.straight.com/arts/talking-stick-festival-celebrates-indigenous-history-month-with-dance-performances-live-music"/>
-    <title type="text">The Talking Stick Festival celebrates Indigenous History Month with dance performances, live music, and tattoos</title>
-    <content type="html">North America's largest Indigenous arts and culture festival will soon take over several locations across Vancouver from June 12 to July 3—for the 21st year in a row. To celebrate, the is hosting an exciting lineup of events that showcase talented Indigenous...</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52296657625_a2862df454_b.jpg" />
+    <category term="bird" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="ornithology" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="kelowna" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bc" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="britishcolumbia" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="canada" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="wildlife" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="nature" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="tamron150600" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>California Quail</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/tylerhuestis/52296657205/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52296657205</id>
+    <published>2022-08-19T12:48:42Z</published>
+    <updated>2022-08-19T12:48:42Z</updated>
+    <flickr:date_taken>2022-08-03T07:14:24-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-03T07:14:24-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/tylerhuestis/&quot;&gt;tylerhuestis&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/tylerhuestis/52296657205/&quot; title=&quot;California Quail&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52296657205_27837d3a26_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;California Quail&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>tylerhuestis</name>
+      <uri>https://www.flickr.com/people/tylerhuestis/</uri>
+      <flickr:nsid>58338638@N04</flickr:nsid>
     </author>
-    <media:content url="https://www.straight.com/files/v3/styles/gs_feature/public/images/22/06/publicity_1920x1080.jpg?itok=m657jyvz" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350624547</id>
-    <published>2022-06-08T22:25:27Z</published>
-    <updated>2022-06-08T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/australia-news/2022/jun/05/the-next-uluru-hikers-and-aboriginal-elders-await-decision-on-closure-of-wollumbin-summit"/>
-    <link href="https://www.theguardian.com/australia-news/2022/jun/05/the-next-uluru-hikers-and-aboriginal-elders-await-decision-on-closure-of-wollumbin-summit"/>
-    <title type="text">The next Uluru? Hikers and Aboriginal elders await decision on closure of Wollumbin summit</title>
-    <content type="html">For more than two years, one of Australia's most popular walking tracks has been missing a pivotal element - walkers.Every year more than 100,000 people would venture to the world heritage-listed Wollumbin national park near the northern New South Wales town of Murwillumbah, many of them drawn to...</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52296657205_27837d3a26_b.jpg" />
+    <category term="bird" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="birds" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="ornithology" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="kelowna" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="bc" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="britishcolumbia" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="canada" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="wildlife" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="nature" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="tamron150600" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Canada Goose Goslings Taking Shelter Under Mom&#039;s Wing</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/mrussell33/52295822190/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52295822190</id>
+    <published>2022-08-19T01:50:28Z</published>
+    <updated>2022-08-19T01:50:28Z</updated>
+    <flickr:date_taken>2022-05-13T19:22:25-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-05-13T19:22:25-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/mrussell33/&quot;&gt;Michael S. Russell&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/mrussell33/52295822190/&quot; title=&quot;Canada Goose Goslings Taking Shelter Under Mom&amp;#039;s Wing&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52295822190_9424d4fd16_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;Canada Goose Goslings Taking Shelter Under Mom&amp;#039;s Wing&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Canada Goose (Branta canadensis) with goslings taking cover under her wing.  Photographed at Rolley Lake Provincial Park in Mission, British Columbia, Canada.&lt;br /&gt;
+&lt;br /&gt;
+©2022 Michael Russell&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>Michael S. Russell</name>
+      <uri>https://www.flickr.com/people/mrussell33/</uri>
+      <flickr:nsid>60207443@N00</flickr:nsid>
     </author>
-    <media:content url="https://i.guim.co.uk/img/media/b4cc8ba8e3a2d0f69ce72585ebbe1ea91598b776/0_0_4500_3000/master/4500.jpg?width=445&amp;quality=45&amp;auto=format&amp;fit=max&amp;dpr=2&amp;s=f5c28d700e316e44f73e79a9d9d89a43" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350581052</id>
-    <published>2022-06-07T22:25:27Z</published>
-    <updated>2022-06-07T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.abc.net.au/news/2022-06-04/indigenous-traditional-owners-push-for-sea-rights-native-title-/101123930"/>
-    <link href="https://www.abc.net.au/news/2022-06-04/indigenous-traditional-owners-push-for-sea-rights-native-title-/101123930"/>
-    <title type="text">Indigenous landholders say there's 'unfinished business' with native title — and it's all about water</title>
-    <content type="html">It's being called the "unfinished business" of the landmark Mabo case. Three decades on from the landmark decision that paved the way for Indigenous people to reclaim their land, many First Nations people say the next step is simple: to claim full rights to their waterways and seas. Key...</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52295822190_9424d4fd16_b.jpg" />
+    <category term="babies" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="brantacanadensis" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="britishcolumbia" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="canada" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="canadageese" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="feathers" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="fledglings" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="geese" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="goslings" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="horizontal" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="lakes" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="mission" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="nature" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="outdoors" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="rolleylakeprovincialpark" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="sandy" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="spring" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="wildlife" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="young" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>American Kestrel</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/nickinthegarden/52295255591/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52295255591</id>
+    <published>2022-08-19T00:44:59Z</published>
+    <updated>2022-08-19T00:44:59Z</updated>
+    <flickr:date_taken>2022-07-12T07:22:57-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-07-12T07:22:57-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nickinthegarden/&quot;&gt;nickinthegarden&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nickinthegarden/52295255591/&quot; title=&quot;American Kestrel&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52295255591_a4c801a0c3_m.jpg&quot; width=&quot;240&quot; height=&quot;240&quot; alt=&quot;American Kestrel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More from the back log&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>nickinthegarden</name>
+      <uri>https://www.flickr.com/people/nickinthegarden/</uri>
+      <flickr:nsid>94239231@N04</flickr:nsid>
     </author>
-    <media:content url="https://live-production.wcms.abc-cdn.net.au/f3ae1430767827784fac4944705573f8?impolicy=wcms_crop_resize&amp;cropH=2688&amp;cropW=4032&amp;xPos=0&amp;yPos=111&amp;width=862&amp;height=575" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350550198</id>
-    <published>2022-06-15T22:25:27Z</published>
-    <updated>2022-06-15T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/commentisfree/2022/jun/03/thirty-years-after-mabo-first-nations-people-are-on-the-verge-of-self-determination-we-hope-not-to-be-disappointed"/>
-    <link href="https://www.theguardian.com/commentisfree/2022/jun/03/thirty-years-after-mabo-first-nations-people-are-on-the-verge-of-self-determination-we-hope-not-to-be-disappointed"/>
-    <title type="text">Thirty years after Mabo, First Nations people are on the verge of true self-determination. We hope not to be disappointed</title>
-    <content type="html">Thirty years ago, Mabo overturned terra nullius, the lie that Australia was "nobody's land" and effectively erased Australia's First People in any legal capacity. By overturning terra nullius, the high court acknowledged that Australia's First People hold rights in Australian land and waters,...</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52295255591_a4c801a0c3_b.jpg" />
+    <category term="americankestrel" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="matsquiflats" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="abbotsfordbccanada" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>On the river bank</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/nickinthegarden/52295675130/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52295675130</id>
+    <published>2022-08-18T23:50:37Z</published>
+    <updated>2022-08-18T23:50:37Z</updated>
+    <flickr:date_taken>2022-07-09T08:55:34-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-07-09T08:55:34-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nickinthegarden/&quot;&gt;nickinthegarden&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nickinthegarden/52295675130/&quot; title=&quot;On the river bank&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52295675130_2943235c5a_m.jpg&quot; width=&quot;240&quot; height=&quot;240&quot; alt=&quot;On the river bank&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A Great Blue Heron is looking for food.&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>nickinthegarden</name>
+      <uri>https://www.flickr.com/people/nickinthegarden/</uri>
+      <flickr:nsid>94239231@N04</flickr:nsid>
     </author>
-    <media:content url="https://i.guim.co.uk/img/media/5ccee445f288919a39a8b21a66f917c8a98902b0/0_201_3017_1811/master/3017.jpg?width=465&amp;quality=45&amp;auto=format&amp;fit=max&amp;dpr=2&amp;s=ab666c161999533d9a6de6d3f2bfa821" type="image/jpeg"/>
-  </entry>
-  <entry>
-    <id>https://contentgems.com/i_urls/350505563</id>
-    <published>2022-06-10T22:25:27Z</published>
-    <updated>2022-06-10T22:25:27Z</updated>
-    <link rel="alternate" type="text/html" href="https://grist.org/accountability/hawaii-youth-climate-lawsuit-filed-climate-inaction/"/>
-    <link href="https://grist.org/accountability/hawaii-youth-climate-lawsuit-filed-climate-inaction/"/>
-    <title type="text">In Hawaii, youth are suing over climate inaction</title>
-    <content type="html">As Tropical Storm Olivia bore down on the island of Maui in September 2018, Kaliko and her family grabbed their most important belongings and fled. The storm inundated the island with more than a foot of rain, and the floodwater lifted Kaliko's home from its foundation and washed part of it away....</content>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52295675130_2943235c5a_b.jpg" />
+    <category term="greatblueheron" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="vedderriver" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="chilliwackbccanada" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Annas Hummingbird</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/stevemopolis/52292605424/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52292605424</id>
+    <published>2022-08-17T17:01:43Z</published>
+    <updated>2022-08-17T17:01:43Z</updated>
+    <flickr:date_taken>2022-08-09T16:48:56-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-09T16:48:56-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/stevemopolis/&quot;&gt;stevemopolis&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/stevemopolis/52292605424/&quot; title=&quot;Annas Hummingbird&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52292605424_30a4c3557f_m.jpg&quot; width=&quot;240&quot; height=&quot;192&quot; alt=&quot;Annas Hummingbird&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terra Nova, Richmond, BC, Canada&lt;/p&gt;</content>
     <author>
-      <name>Via ContentGems</name>
+      <name>stevemopolis</name>
+      <uri>https://www.flickr.com/people/stevemopolis/</uri>
+      <flickr:nsid>196071922@N08</flickr:nsid>
     </author>
-    <media:content url="https://grist.org/wp-content/uploads/2022/06/Hawaii-Youth-Climate-Lawsuit.jpeg" type="image/jpeg"/>
-  </entry>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52292605424_30a4c3557f_b.jpg" />
+    <category term="yellow" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Annas Hummingbird</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/stevemopolis/52292826625/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52292826625</id>
+    <published>2022-08-17T17:01:42Z</published>
+    <updated>2022-08-17T17:01:42Z</updated>
+    <flickr:date_taken>2022-08-09T16:49:14-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-09T16:49:14-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/stevemopolis/&quot;&gt;stevemopolis&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/stevemopolis/52292826625/&quot; title=&quot;Annas Hummingbird&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52292826625_32737371ed_m.jpg&quot; width=&quot;240&quot; height=&quot;160&quot; alt=&quot;Annas Hummingbird&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terra Nova, Richmond, BC, Canada&lt;/p&gt;</content>
+    <author>
+      <name>stevemopolis</name>
+      <uri>https://www.flickr.com/people/stevemopolis/</uri>
+      <flickr:nsid>196071922@N08</flickr:nsid>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52292826625_32737371ed_b.jpg" />
+    <category term="yellow" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Annas Hummingbird</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/stevemopolis/52292342251/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52292342251</id>
+    <published>2022-08-17T17:01:42Z</published>
+    <updated>2022-08-17T17:01:42Z</updated>
+    <flickr:date_taken>2022-08-09T16:48:42-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-09T16:48:42-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/stevemopolis/&quot;&gt;stevemopolis&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/stevemopolis/52292342251/&quot; title=&quot;Annas Hummingbird&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52292342251_9894e228d1_m.jpg&quot; width=&quot;192&quot; height=&quot;240&quot; alt=&quot;Annas Hummingbird&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Terra Nova, Richmond, BC, Canada&lt;/p&gt;</content>
+    <author>
+      <name>stevemopolis</name>
+      <uri>https://www.flickr.com/people/stevemopolis/</uri>
+      <flickr:nsid>196071922@N08</flickr:nsid>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52292342251_9894e228d1_b.jpg" />
+    <category term="" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
+
+<entry>
+    <title>Gull and Heron</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/nickinthegarden/52290915278/in/pool-39777562@N00"/>
+    <id>tag:flickr.com,2005:/grouppool/39777562@N00/photo/52290915278</id>
+    <published>2022-08-17T00:13:49Z</published>
+    <updated>2022-08-17T00:13:49Z</updated>
+    <flickr:date_taken>2022-08-14T07:08:26-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-08-14T07:08:26-08:00</dc:date.Taken>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/people/nickinthegarden/&quot;&gt;nickinthegarden&lt;/a&gt; has added a photo to the pool:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.flickr.com/photos/nickinthegarden/52290915278/&quot; title=&quot;Gull and Heron&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52290915278_b55bb7b5d2_m.jpg&quot; width=&quot;240&quot; height=&quot;135&quot; alt=&quot;Gull and Heron&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;More from the ferry jetty at Tsawwassen.&lt;/p&gt;</content>
+    <author>
+      <name>nickinthegarden</name>
+      <uri>https://www.flickr.com/people/nickinthegarden/</uri>
+      <flickr:nsid>94239231@N04</flickr:nsid>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52290915278_b55bb7b5d2_b.jpg" />
+    <category term="greatblueheron" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="gull" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="ferryjetty" scheme="https://www.flickr.com/photos/tags/" />
+    <category term="tsawwassendeltabccanada" scheme="https://www.flickr.com/photos/tags/" />
+    <displaycategories>
+            </displaycategories>
+    </entry>
 </feed>
