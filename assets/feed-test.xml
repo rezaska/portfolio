@@ -5,9 +5,9 @@
       xmlns:media="http://search.yahoo.com/mrss/">
 
   <title>Animikii: Newsletter (Mailchimp)</title>
-  <link rel="self" href="http://www.flickr.com/services/feeds/groups_pool.gne?id=39777562@N00&amp;lang=en-us&amp;format=atom" />
-  <link rel="alternate" type="text/html" href="https://www.flickr.com/groups/birdphotographybc/pool/"/>
-  <id>tag:flickr.com,2005:/grouppool/39777562@N00</id>
+  <link rel="alternate" type="text/html" href="https://contentgems.com"/>
+  <link rel="self" type="application/atom+xml" href="https://contentgems.com/feeds/v3/buckets/LNPmodrktzisygT5as1h"/>
+  <id>tag:contentgems.com,2005:/feeds/v3/buckets/LNPmodrktzisygT5as1h</id>
   <icon>https://farm8.staticflickr.com/7857/buddyicons/39777562@N00.jpg?1555509023</icon>
   <updated>2022-08-24T03:48:11Z</updated>
   <generator uri="https://www.flickr.com/">Flickr</generator>
