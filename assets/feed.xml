@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<feed xml:lang="en-US"
-      xmlns="http://www.w3.org/2005/Atom"
-      xmlns:media="http://search.yahoo.com/mrss/">
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <id>tag:contentgems.com,2005:/feeds/v3/buckets/LNPmodrktzisygT5as1h</id>
   <link rel="alternate" type="text/html" href="https://contentgems.com"/>
   <link rel="self" type="application/atom+xml" href="https://contentgems.com/feeds/v3/buckets/LNPmodrktzisygT5as1h"/>
   <title>Animikii: Newsletter (Mailchimp)</title>
-  <updated>2022-08-29T21:18:46Z</updated>
+  <updated>2022-08-29T21:18:47Z</updated>
   <author>
     <name>Via ContentGems</name>
   </author>
-    <entry>
+  <entry>
     <id>https://contentgems.com/i_urls/354651533</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:47Z</published>
+    <updated>2022-08-29T21:18:47Z</updated>
     <link rel="alternate" type="text/html" href="https://theintercept.com/2022/08/28/territory-movie-amazon-brazil/"/>
     <link href="https://theintercept.com/2022/08/28/territory-movie-amazon-brazil/"/>
     <title type="text">The Front Lines Of The End Of The World — And The Fight To Save The Amazon</title>
@@ -22,12 +20,12 @@
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://theintercept.com/wp-uploads/sites/1/2022/08/TheTerritory_16x9_RCO_100.jpg" type="image/jpeg"/>
-    <enclosure url="https://theintercept.com/wp-uploads/sites/1/2022/08/TheTerritory_16x9_RCO_100.jpg" type="image/jpeg" />
+    <enclosure url="https://theintercept.com/wp-uploads/sites/1/2022/08/TheTerritory_16x9_RCO_100.jpg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354533652</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:45Z</published>
+    <updated>2022-08-29T21:18:45Z</updated>
     <link rel="alternate" type="text/html" href="https://rover.substack.com/p/back-to-the-land"/>
     <link href="https://rover.substack.com/p/back-to-the-land"/>
     <title type="text">Back to the Land: One of the last working Mohawk farms in Quebec is teaching future generations to be proud of their language, knowledge and their history of caring for the land</title>
@@ -37,12 +35,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F103875f6-0eef-4204-8ce3-9ff19128f1fc_4361x3066.jpeg" type="image/jpeg"/>
-    <enclosure url="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F103875f6-0eef-4204-8ce3-9ff19128f1fc_4361x3066.jpeg" type="image/jpeg" />
+    <enclosure url="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F103875f6-0eef-4204-8ce3-9ff19128f1fc_4361x3066.jpeg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354516409</id>
-    <published>2022-08-18T22:25:28Z</published>
-    <updated>2022-08-18T22:25:28Z</updated>
+    <published>2022-08-29T21:18:43Z</published>
+    <updated>2022-08-29T21:18:43Z</updated>
     <link rel="alternate" type="text/html" href="https://grist.org/drought/indigenous-fight-water-colorado-river-drought-cuts/"/>
     <link href="https://grist.org/drought/indigenous-fight-water-colorado-river-drought-cuts/"/>
     <title type="text">How Colorado River Basin tribes are managing water amid historic drought</title>
@@ -51,12 +49,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://grist.org/wp-content/uploads/2022/08/Lake-Mead-Drought-Aug-19-22-Pixlr-Edit.jpg" type="image/jpeg"/>
-    <enclosure url="https://grist.org/wp-content/uploads/2022/08/Lake-Mead-Drought-Aug-19-22-Pixlr-Edit.jpg" type="image/jpeg" />
+    <enclosure url="https://grist.org/wp-content/uploads/2022/08/Lake-Mead-Drought-Aug-19-22-Pixlr-Edit.jpg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/351021272</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:41Z</published>
+    <updated>2022-08-29T21:18:41Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theglobeandmail.com/business/adv/article-indigenous-entrepreneurs-enter-the-bears-lair-on-fresh-new-reality-tv/"/>
     <link href="https://www.theglobeandmail.com/business/adv/article-indigenous-entrepreneurs-enter-the-bears-lair-on-fresh-new-reality-tv/"/>
     <title type="text">Indigenous entrepreneurs enter The Bears’ Lair on fresh new reality TV show</title>
@@ -65,12 +63,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://www.theglobeandmail.com/resizer/8bcwATAd8FRmw0p3WsUPeQExOss=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/4BKIK6ABDJBR3DDBHVT4CRLJKU.jpg" type="image/jpeg"/>
-    <enclosure url="https://www.theglobeandmail.com/resizer/8bcwATAd8FRmw0p3WsUPeQExOss=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/4BKIK6ABDJBR3DDBHVT4CRLJKU.jpg" type="image/jpeg" />
+    <enclosure url="https://www.theglobeandmail.com/resizer/8bcwATAd8FRmw0p3WsUPeQExOss=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/4BKIK6ABDJBR3DDBHVT4CRLJKU.jpg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354403337</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:39Z</published>
+    <updated>2022-08-29T21:18:39Z</updated>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2022/08/23/world/americas/canada-vancouver-indigenous.html"/>
     <link href="https://www.nytimes.com/2022/08/23/world/americas/canada-vancouver-indigenous.html"/>
     <title type="text">In Vancouver, Indigenous Communities Get Prime Land, and Power</title>
@@ -79,12 +77,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://static01.nyt.com/images/2022/08/17/world/00vancouver-indigenous-property-06/00vancouver-indigenous-property-06-facebookJumbo.jpg" type="image/jpeg"/>
-    <enclosure url="https://static01.nyt.com/images/2022/08/17/world/00vancouver-indigenous-property-06/00vancouver-indigenous-property-06-facebookJumbo.jpg" type="image/jpeg" />
+    <enclosure url="https://static01.nyt.com/images/2022/08/17/world/00vancouver-indigenous-property-06/00vancouver-indigenous-property-06-facebookJumbo.jpg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354678461</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:37Z</published>
+    <updated>2022-08-29T21:18:37Z</updated>
     <link rel="alternate" type="text/html" href="https://theconversation.com/a-witty-memoir-of-taking-on-the-family-farm-reckons-with-indigenous-dispossession-and-climate-change-188895"/>
     <link href="https://theconversation.com/a-witty-memoir-of-taking-on-the-family-farm-reckons-with-indigenous-dispossession-and-climate-change-188895"/>
     <title type="text">A witty memoir of taking on the family farm reckons with Indigenous dispossession and climate change</title>
@@ -93,12 +91,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://images.theconversation.com/files/480722/original/file-20220824-20-59ggeu.jpg?ixlib=rb-1.1.0&amp;rect=121%252C93%252C6081%252C3998&amp;q=20&amp;auto=format&amp;w=320&amp;fit=clip&amp;dpr=2&amp;usm=12&amp;cs=strip" type="image/jpeg"/>
-    <enclosure url="https://images.theconversation.com/files/480722/original/file-20220824-20-59ggeu.jpg?ixlib=rb-1.1.0&amp;rect=121%252C93%252C6081%252C3998&amp;q=20&amp;auto=format&amp;w=320&amp;fit=clip&amp;dpr=2&amp;usm=12&amp;cs=strip" type="image/jpeg" />
+    <enclosure url="https://images.theconversation.com/files/480722/original/file-20220824-20-59ggeu.jpg?ixlib=rb-1.1.0&amp;rect=121%252C93%252C6081%252C3998&amp;q=20&amp;auto=format&amp;w=320&amp;fit=clip&amp;dpr=2&amp;usm=12&amp;cs=strip" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354491373</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:35Z</published>
+    <updated>2022-08-29T21:18:35Z</updated>
     <link rel="alternate" type="text/html" href="https://www.cbc.ca/news/canada/manitoba/rooster-town-park-winnipeg-1.6560384"/>
     <link href="https://www.cbc.ca/news/canada/manitoba/rooster-town-park-winnipeg-1.6560384"/>
     <title type="text">City of Winnipeg renames park as Rooster Town to remember displaced Métis community</title>
@@ -107,12 +105,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://i.cbc.ca/1.6560389.1661303871!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rooster-town-park.jpg" type="image/jpeg"/>
-    <enclosure url="https://i.cbc.ca/1.6560389.1661303871!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rooster-town-park.jpg" type="image/jpeg" />
+    <enclosure url="https://i.cbc.ca/1.6560389.1661303871!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rooster-town-park.jpg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354417709</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:33Z</published>
+    <updated>2022-08-29T21:18:33Z</updated>
     <link rel="alternate" type="text/html" href="https://www.cbc.ca/news/canada/london/indigenous-food-bank-opening-london-ontario-1.6551791"/>
     <link href="https://www.cbc.ca/news/canada/london/indigenous-food-bank-opening-london-ontario-1.6551791"/>
     <title type="text">Indigenous food bank offering traditional fares set to open in London, Ont. this fall</title>
@@ -121,12 +119,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://i.cbc.ca/1.6551843.1660606099!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jocelyn-zurbrigg.jpg" type="image/jpeg"/>
-    <enclosure url="https://i.cbc.ca/1.6551843.1660606099!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jocelyn-zurbrigg.jpg" type="image/jpeg" />
+    <enclosure url="https://i.cbc.ca/1.6551843.1660606099!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jocelyn-zurbrigg.jpg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354415669</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:31Z</published>
+    <updated>2022-08-29T21:18:31Z</updated>
     <link rel="alternate" type="text/html" href="https://www.cbc.ca/news/canada/north/1-megawatt-solar-farm-coming-inuvik-1.6552147"/>
     <link href="https://www.cbc.ca/news/canada/north/1-megawatt-solar-farm-coming-inuvik-1.6552147"/>
     <title type="text">Nihtat Energy Ltd. is installing 3,456 solar panels in Inuvik, N.W.T.</title>
@@ -135,12 +133,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://i.cbc.ca/1.6552167.1660610899!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/inuvik-solar-project.JPG" type="image/jpeg"/>
-    <enclosure url="https://i.cbc.ca/1.6552167.1660610899!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/inuvik-solar-project.JPG" type="image/jpeg" />
+    <enclosure url="https://i.cbc.ca/1.6552167.1660610899!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/inuvik-solar-project.JPG" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354415587</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:29Z</published>
+    <updated>2022-08-29T21:18:29Z</updated>
     <link rel="alternate" type="text/html" href="https://www.cbc.ca/news/canada/new-brunswick/indigenous-led-protection-big-salmon-river-watershed-1.6558264"/>
     <link href="https://www.cbc.ca/news/canada/new-brunswick/indigenous-led-protection-big-salmon-river-watershed-1.6558264"/>
     <title type="text">Mi'kmaq and Wolastoqiyik sign declaration to protect Big Salmon River</title>
@@ -149,12 +147,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://i.cbc.ca/1.6187130.1632425902!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fundy-trail-parkway-lookout-view.jpg" type="image/jpeg"/>
-    <enclosure url="https://i.cbc.ca/1.6187130.1632425902!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fundy-trail-parkway-lookout-view.jpg" type="image/jpeg" />
+    <enclosure url="https://i.cbc.ca/1.6187130.1632425902!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fundy-trail-parkway-lookout-view.jpg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354304897</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:27Z</published>
+    <updated>2022-08-29T21:18:27Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/australia-news/2022/aug/21/what-is-an-indigenous-treaty-and-how-would-it-work-in-australia"/>
     <link href="https://www.theguardian.com/australia-news/2022/aug/21/what-is-an-indigenous-treaty-and-how-would-it-work-in-australia"/>
     <title type="text">What is an Indigenous treaty and how would it work in Australia?</title>
@@ -163,12 +161,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://i.guim.co.uk/img/media/d3623b981bcf1ce0c348d160d7075e428d795402/0_140_7926_4756/master/7926.jpg?width=620&amp;quality=85&amp;fit=max&amp;s=09ed3f9ebff224e5da0ffcbcdca7ef63" type="image/jpeg"/>
-    <enclosure url="https://i.guim.co.uk/img/media/d3623b981bcf1ce0c348d160d7075e428d795402/0_140_7926_4756/master/7926.jpg?width=620&amp;quality=85&amp;fit=max&amp;s=09ed3f9ebff224e5da0ffcbcdca7ef63" type="image/jpeg" />
+    <enclosure url="https://i.guim.co.uk/img/media/d3623b981bcf1ce0c348d160d7075e428d795402/0_140_7926_4756/master/7926.jpg?width=620&amp;quality=85&amp;fit=max&amp;s=09ed3f9ebff224e5da0ffcbcdca7ef63" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354415228</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:25Z</published>
+    <updated>2022-08-29T21:18:25Z</updated>
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/world/2022/aug/23/anglo-french-oil-firm-perenco-threatens-amazon-reserve-for-isolated-indigenous-people-peru"/>
     <link href="https://www.theguardian.com/world/2022/aug/23/anglo-french-oil-firm-perenco-threatens-amazon-reserve-for-isolated-indigenous-people-peru"/>
     <title type="text">Anglo-French oil firm threatens Amazon reserve for isolated Indigenous people</title>
@@ -177,12 +175,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://i.guim.co.uk/img/media/aeb00b4abfd0710aa993731286f733c658f3f111/0_378_7793_4678/master/7793.jpg?width=380&amp;quality=85&amp;fit=max&amp;s=bbad866ba090c55612380443255f3624" type="image/jpeg"/>
-    <enclosure url="https://i.guim.co.uk/img/media/aeb00b4abfd0710aa993731286f733c658f3f111/0_378_7793_4678/master/7793.jpg?width=380&amp;quality=85&amp;fit=max&amp;s=bbad866ba090c55612380443255f3624" type="image/jpeg" />
+    <enclosure url="https://i.guim.co.uk/img/media/aeb00b4abfd0710aa993731286f733c658f3f111/0_378_7793_4678/master/7793.jpg?width=380&amp;quality=85&amp;fit=max&amp;s=bbad866ba090c55612380443255f3624" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354325946</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:23Z</published>
+    <updated>2022-08-29T21:18:23Z</updated>
     <link rel="alternate" type="text/html" href="https://indiancountrytoday.com/news/new-zealand-rivers-personhood-status-offers-hope-to-m%C4%81ori"/>
     <link href="https://indiancountrytoday.com/news/new-zealand-rivers-personhood-status-offers-hope-to-m%C4%81ori"/>
     <title type="text">New Zealand river's personhood status offers hope to Māori</title>
@@ -191,12 +189,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://indiancountrytoday.com/.image/t_share/MTkxNjg3NzE4NzUxNzA4NjU4/ap22220652286840.jpg" type="image/jpeg"/>
-    <enclosure url="https://indiancountrytoday.com/.image/t_share/MTkxNjg3NzE4NzUxNzA4NjU4/ap22220652286840.jpg" type="image/jpeg" />
+    <enclosure url="https://indiancountrytoday.com/.image/t_share/MTkxNjg3NzE4NzUxNzA4NjU4/ap22220652286840.jpg" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354311435</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:21Z</published>
+    <updated>2022-08-29T21:18:21Z</updated>
     <link rel="alternate" type="text/html" href="https://www.northcoastjournal.com/NewsBlog/archives/2022/08/20/wiyot-tribe-reclaims-mouralherwaqh"/>
     <link href="https://www.northcoastjournal.com/NewsBlog/archives/2022/08/20/wiyot-tribe-reclaims-mouralherwaqh"/>
     <title type="text">Wiyot Tribe Reclaims Mouralherwaqh</title>
@@ -205,12 +203,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://media2.fdncms.com/northcoast/imager/u/blog/24411859/ted_hernandez_cheryl_seidner_hilanea_wilkinson.jpeg?cb=1661035876" type="image/jpeg"/>
-    <enclosure url="https://media2.fdncms.com/northcoast/imager/u/blog/24411859/ted_hernandez_cheryl_seidner_hilanea_wilkinson.jpeg?cb=1661035876" type="image/jpeg" />
+    <enclosure url="https://media2.fdncms.com/northcoast/imager/u/blog/24411859/ted_hernandez_cheryl_seidner_hilanea_wilkinson.jpeg?cb=1661035876" type="image/jpeg"/>
   </entry>
   <entry>
     <id>https://contentgems.com/i_urls/354240898</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:19Z</published>
+    <updated>2022-08-29T21:18:19Z</updated>
     <link rel="alternate" type="text/html" href="https://www.publicbooks.org/weaving-coding-indigenous-scholarship-rhiannon-sorrell/"/>
     <link href="https://www.publicbooks.org/weaving-coding-indigenous-scholarship-rhiannon-sorrell/"/>
     <title type="text">“the Good Of The Whole”: Talking Weaving, Coding, And Indigenous Scholarship With Rhiannon Sorrell</title>
@@ -219,12 +217,12 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://www.publicbooks.org/wp-content/uploads/2022/07/IMG_2867-scaled-e1657402996283.jpg" type="image/jpeg"/>
-    <enclosure url="https://www.publicbooks.org/wp-content/uploads/2022/07/IMG_2867-scaled-e1657402996283.jpg" type="image/jpeg" />
+    <enclosure url="https://www.publicbooks.org/wp-content/uploads/2022/07/IMG_2867-scaled-e1657402996283.jpg" type="image/jpeg"/>
   </entry>
-    <entry>
+  <entry>
     <id>https://contentgems.com/i_urls/354127603</id>
-    <published>2022-08-29T21:18:46Z</published>
-    <updated>2022-08-29T21:18:46Z</updated>
+    <published>2022-08-29T21:18:17Z</published>
+    <updated>2022-08-29T21:18:17Z</updated>
     <link rel="alternate" type="text/html" href="https://www.scientificamerican.com/article/ai-can-help-indigenous-people-protect-biodiversity/"/>
     <link href="https://www.scientificamerican.com/article/ai-can-help-indigenous-people-protect-biodiversity/"/>
     <title type="text">AI Can Help Indigenous People Protect Biodiversity</title>
@@ -233,6 +231,6 @@ Valerie Gabriel’s place doesn’t look like the farms that have swallowed so m
       <name>Via ContentGems</name>
     </author>
     <media:content url="https://static.scientificamerican.com/sciam/cache/file/7D840C15-25FE-4CE1-A90B20F5D3764E99.jpg" type="image/jpeg"/>
-    <enclosure url="https://static.scientificamerican.com/sciam/cache/file/7D840C15-25FE-4CE1-A90B20F5D3764E99.jpg" type="image/jpeg" />
+    <enclosure url="https://static.scientificamerican.com/sciam/cache/file/7D840C15-25FE-4CE1-A90B20F5D3764E99.jpg" type="image/jpeg"/>
   </entry>
 </feed>
